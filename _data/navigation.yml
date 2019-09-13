@@ -3,7 +3,12 @@ main:
   - title: "About"
     url: /about/ 
   - title: "Teaching"
-    url: /Research/
+    url: /teaching/
+  - title: "Research"
+    url: /research/
+  - title: "Useful tips"
+    url: /useful/
+    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
