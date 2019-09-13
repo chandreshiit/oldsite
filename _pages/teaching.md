@@ -18,7 +18,13 @@ Lab Assignments:
       Assignment 1 is out. Due date Sep 19.   
 Date |Topics|Reading/References|Slides/Papers
 ---|---|---|---
-Sep 12|Introduction to data stream mining|Knowledge discovery from data streams|[intro](https://drive.google.com/file/d/1yw7ThJel14qX1eLXiQas1BYUHyQuT4A0/view?usp=sharing)
+**Sep 12**|Introduction to data stream mining|Knowledge discovery from data streams|[intro](https://drive.google.com/file/d/1yw7ThJel14qX1eLXiQas1BYUHyQuT4A0/view?usp=sharing)
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 
