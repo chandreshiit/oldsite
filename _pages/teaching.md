@@ -15,8 +15,7 @@ Reference book:
   1. Knowledge discovery from data streams by Joao Gama 
   2. Data Streams: Models and Algorithms by Charu Aggarwal  
 
-### Lab Assignments: 
- 
+### Lab Assignments 
       - Assignment 1 is out. Due date **Sep 19**.   
 
 
