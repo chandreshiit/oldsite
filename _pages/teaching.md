@@ -5,17 +5,17 @@ author_profile: false
 ---
 
 Instructer: Dr. Chandresh Kumar Maurya  
-Location:  
+>Location:  
 >Lecture :   415 (North Building),           Time: 12:00 -14:00 PM  
 >Lab :            PC2 (South Building)   Time: 18:00-20:00 PM  
-
 Join Google group:  data-stream@googlegroups.com  
 Office: 7.27 (North Building)  
 Meeting hours: 16:00-17:00  PM  
 Reference book:
   1. Knowledge discovery from data streams by Joao Gama 
   2. Data Streams: Models and Algorithms by Charu Aggarwal  
-Lab Assignments:  
+
+# Lab Assignments:  
       Assignment 1 is out. Due date **Sep 19**.   
 
 
