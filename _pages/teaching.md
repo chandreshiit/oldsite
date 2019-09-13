@@ -5,7 +5,6 @@ author_profile: false
 ---
 
 Instructer: Dr. Chandresh Kumar Maurya
-
 Location:
        Lecture :   415 (North Building),           Time: 12:00 -14:00 PM
        Lab :            PC2 (South Building)   Time: 18:00-20:00 PM
