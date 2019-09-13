@@ -8,6 +8,7 @@ Instructer: Dr. Chandresh Kumar Maurya
 Location:  
 >Lecture :   415 (North Building),           Time: 12:00 -14:00 PM  
 >Lab :            PC2 (South Building)   Time: 18:00-20:00 PM  
+
 Join Google group:  data-stream@googlegroups.com  
 Office: 7.27 (North Building)  
 Meeting hours: 16:00-17:00  PM  
