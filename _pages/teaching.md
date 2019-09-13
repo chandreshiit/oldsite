@@ -16,15 +16,11 @@ Reference book:
   2. Data Streams: Models and Algorithms by Charu Aggarwal  
 Lab Assignments:  
       Assignment 1 is out. Due date Sep 19.   
-Date |Topics|Reading/References|Slides/Papers
----|---|---|---
-**Sep 12**|Introduction to data stream mining|Knowledge discovery from data streams|[intro](https://drive.google.com/file/d/1yw7ThJel14qX1eLXiQas1BYUHyQuT4A0/view?usp=sharing)
+|Date |Topics|Reading/References|Slides/Papers|
+|---|---|---|---|
+|**Sep 12**|Introduction to data stream mining|Knowledge discovery from data streams|[intro](https://drive.google.com/file/d/1yw7ThJel14qX1eLXiQas1BYUHyQuT4A0/view?usp=sharing)|
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
 
 
 
@@ -45,7 +41,7 @@ Date |Topics|Reading/References|Slides/Papers
     <td class="tg-0pky">Sep 12</td>
     <td class="tg-0pky">Introduction to data stream mining</td>
     <td class="tg-0pky">Knowledge discovery from data streams</td>
-    <td class="tg-0pky">to be uploaded</td>
+    <td class="tg-0pky"><a href="https://drive.google.com/file/d/1yw7ThJel14qX1eLXiQas1BYUHyQuT4A0/view?usp=sharing">intro</a></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
