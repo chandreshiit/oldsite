@@ -4,4 +4,4 @@ permalink: /research/
 author_profile: false
 ---
 under construction...
-$`\sqrt{2}`$
+$$x=\sqrt{2}$$
