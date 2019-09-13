@@ -110,7 +110,7 @@ author:
   name             : "Chandresh Kumar Maurya"
   avatar           : /assets/images/Chandresh.jpg   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a research assisant professor"
-  location         : "ELTE University, Budapest, Hungary"
+  location         : "ELTE University"
   email            : ckm.jnu@gmail.com
   links:
     - label: "Email"
@@ -124,7 +124,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
