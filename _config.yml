@@ -110,8 +110,8 @@ author:
   name             : "Chandresh Kumar Maurya"
   avatar           : /assets/images/Chandresh.jpg   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a research assisant professor"
-  location         : "Somewhere"
-  email            :
+  location         : "ELTE University, Budapest, Hungary"
+  email            : ckm.jnu@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -292,3 +292,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+ 
