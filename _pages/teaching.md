@@ -16,7 +16,7 @@ Reference book:
   2. Data Streams: Models and Algorithms by Charu Aggarwal  
 
 ### Lab Assignments 
-      - Assignment 1 is out. Due date **Sep 19**.   
+      - Assignment 1 is out. Due date **Sep 19**.    Submit it [here](https://classroom.github.com/g/4E1h0Jtu)
 
 
 <style type="text/css">
