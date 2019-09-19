@@ -16,7 +16,8 @@ Reference book:
   2. Data Streams: Models and Algorithms by Charu Aggarwal  
 
 **Lab Assignments**   Submit it [here](https://classroom.github.com/a/TflJb_rW)
-1. Assignment 1 is out. Due date **Sep 19**.   
+1. Assignment 1 is out (Implement count-min sketch algorithm as discussed in the class). Due date **Sep 19**.   
+2. Assignment 2 is out (Implementation of either of a) Flajolet-and Martin (FM algorithm), b) Bloom filter 3) ADWIN algorithm (see lecture slides 1 and 2). Due date **Sep 24**
 
 
 <style type="text/css">
@@ -39,10 +40,10 @@ Reference book:
     <td class="tg-0pky"><a href="https://drive.google.com/file/d/1yw7ThJel14qX1eLXiQas1BYUHyQuT4A0/view?usp=sharing">intro</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Sep 19</td>
+    <td class="tg-0pky">Sampling, histogram, wavelets and FT</td>
+    <td class="tg-0pky">from Chapter 2 in [1]</td>
+    <td class="tg-0pky"><a href="https://drive.google.com/file/d/199yxaqsLZ7P63tNADrDYmx39_SzyyZ3K/view?usp=sharing">lecture 2</a></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
