@@ -41,13 +41,13 @@ Reference book:
   </tr>
   <tr>
     <td class="tg-0pky">Sep 19</td>
-    <td class="tg-0pky">Sampling, histogram, wavelets and FT</td>
+    <td class="tg-0pky">Sampling, bloom filter, ADWIN algorithm</td>
     <td class="tg-0pky">from Chapter 2 in [1]</td>
     <td class="tg-0pky"><a href="https://drive.google.com/file/d/199yxaqsLZ7P63tNADrDYmx39_SzyyZ3K/view?usp=sharing">lecture 2</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Sep 24</td>
+    <td class="tg-0pky">Count 1s,  histogram, wavelets and FT</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
