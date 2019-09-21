@@ -6,10 +6,10 @@ main:
     url: /teaching/
   - title: "Research"
     url: /research/
-  - title: "Useful tips"
-    url: /useful/
   - title: "Projects"
     url: /projects/
+  - title: "Useful tips"
+    url: /useful/
   - title: "Talks"
     url: /talk/
     
