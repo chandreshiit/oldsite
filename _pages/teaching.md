@@ -49,7 +49,7 @@ Reference book:
     <td class="tg-0pky">Sep 24</td>
     <td class="tg-0pky">Count 1s,  </td>
     <td class="tg-0pky">from chapter 2 in [1]</td>
-    <td class="tg-0pky"><a href="https://drive.google.com/open?id=145pN7KBnEos-ltdqOuyoSZ9bRs-HHC-z">lecture 3</td>
+    <td class="tg-0pky"><a href="https://drive.google.com/open?id=145pN7KBnEos-ltdqOuyoSZ9bRs-HHC-z">lecture 3</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">Oct 1</td>
