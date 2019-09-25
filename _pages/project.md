@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 permalink: /projects/
-author_profile: false
+author_profile: true
 ---
 
 1. **Multimodal incident similarity inference for improving ticket resolution**   
@@ -12,6 +12,17 @@ we look at the problem of multimodal incident similarity inference with the obje
 we are building  a model which can recommend the features/suggestions for improvement of the product/services based on crowd-source data. The challenge which lies ahead in this is to solve various NLP problems such as summarization, sarcasm detection, class-imbalance learning, semantic-clustering to new a few. We are looking at the state-of-the-art solution in the literature to build upon and to improve the existing system. The model will be useful to product developers, service managers to roll out new features for their products/services to gain competitive advantage. 
 
 3. **Intelligent reminder system based on multi-model data**  
+
+{% include base_path %}
+{% include group-by-array collection=site.posts field="tags" %}
+
+{% for tag in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+  {% for post in posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
 
 
 
