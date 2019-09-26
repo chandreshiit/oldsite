@@ -12,8 +12,8 @@ main:
     url: /useful/
   - title: "Talks"
     url: /talk/
-  - title: "ML"
-    url: /ml/
+ # - title: "ML"
+  #  url: /ml/
     
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
