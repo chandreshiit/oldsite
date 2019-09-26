@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 permalink: /projects/
-author_profile: true
+author_profile: false
 ---
 
 1. **Multimodal incident similarity inference for improving ticket resolution**   
