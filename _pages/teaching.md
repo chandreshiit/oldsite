@@ -14,11 +14,12 @@ Meeting hours: 16:00-17:00  PM
 Reference book:    
   1. Knowledge discovery from data streams by Joao Gama 
   2. Data Streams: Models and Algorithms by Charu Aggarwal  
+  3. Mining of massive data sets
 
 **Lab Assignments**   Submit it [here](https://classroom.github.com/a/TflJb_rW)
 1. Assignment 1 is out (Implement count-min sketch algorithm as discussed in the class). Due date **Sep 19**.   
 2. Assignment 2 is out (Implementation of either of a) Flajolet-and Martin (FM algorithm), b) Bloom filter 3) ADWIN algorithm (see lecture slides 1 and 2). Due date **Sep 26**
-3. Assignment 3 will start from next week. Where you will implement concept drift detection algorithm.
+3. Assignment 3 is out ( PAPER READING [Dynamic Weighted Majority Algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.2481&rep=rep1&type=pdf). Understand the algorithm in the paper, download the data and start implementing it.
 
 
 <style type="text/css">
@@ -49,14 +50,14 @@ Reference book:
   <tr>
     <td class="tg-0pky">Sep 24</td>
     <td class="tg-0pky">Count 1s, Sampling </td>
-    <td class="tg-0pky">from chapter 2 in [1]</td>
+    <td class="tg-0pky">from chapter 2 in [1] and data stream chapter in [3]</td>
     <td class="tg-0pky"><a href="https://drive.google.com/open?id=145pN7KBnEos-ltdqOuyoSZ9bRs-HHC-z">lecture 3</a></td>
-  </tr>
+  </tr>http://web.iitd.ac.in/~sumeet/WaveletTutorial.pdf
   <tr>
     <td class="tg-0pky">Oct 1</td>
     <td class="tg-0pky">histogram, wavelets and FT</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">from Chapter 2/3 in [1],wavelets is from [link](http://web.iitd.ac.in/~sumeet/WaveletTutorial.pdf)</td>
+    <td class="tg-0pky"><a href="https://drive.google.com/open?id=1PxX0xyP77tEdIdGdnl_68p6whbThVzPa">lecture 4</a></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
