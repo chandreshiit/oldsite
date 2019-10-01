@@ -55,7 +55,7 @@ Reference book:
   </tr>http://web.iitd.ac.in/~sumeet/WaveletTutorial.pdf
   <tr>
     <td class="tg-0pky">Oct 1</td>
-    <td class="tg-0pky">histogram, wavelets and FT</td>
+    <td class="tg-0pky">histogram, wavelets and FT, concept drift</td>
     <td class="tg-0pky">from Chapter 2/3 in [1] wavelets is from <a href="http://web.iitd.ac.in/~sumeet/WaveletTutorial.pdf">link</a></td>
     <td class="tg-0pky"><a href="https://drive.google.com/open?id=1PxX0xyP77tEdIdGdnl_68p6whbThVzPa">lecture 4</a></td>
   </tr>
