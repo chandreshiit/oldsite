@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Data Stream Mining"
 author_profile: false
 ---
-
+<span style="font-size:.8em">
 Instructer: Dr. Chandresh Kumar Maurya  
 >Location:  
 >Lecture :   415 (North Building),           Time: 12:00 -14:00 PM  
@@ -20,7 +20,7 @@ Reference book:
 1. Assignment 1 is out (Implement count-min sketch algorithm as discussed in the class). Due date **Sep 19**.   
 2. Assignment 2 is out (Implementation of either of a) Flajolet-and Martin (FM algorithm), b) Bloom filter 3) ADWIN algorithm (see lecture slides 1 and 2). Due date **Sep 26**
 3. Assignment 3 is out ( PAPER READING [Dynamic Weighted Majority Algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.2481&rep=rep1&type=pdf). Understand the algorithm in the paper, download the data and start implementing it.
-
+</span>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
