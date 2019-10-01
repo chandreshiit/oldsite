@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Data Stream Mining"
 author_profile: false
 ---
-<span style="font-size:.8em">
+<span style="font-size:.1em">
 Instructer: Dr. Chandresh Kumar Maurya  
 >Location:  
 >Lecture :   415 (North Building),           Time: 12:00 -14:00 PM  
