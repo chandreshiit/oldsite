@@ -14,7 +14,7 @@ Meeting hours: 16:00-17:00  PM
 Reference book:    
   1. Knowledge discovery from data streams by Joao Gama 
   2. Data Streams: Models and Algorithms by Charu Aggarwal  
-  3. Mining of massive data sets
+  3. Mining of massive data sets by Jure Leskovec, Anand Rajaraman, Jeff Ullman
 
 **Lab Assignments**   Submit it [here](https://classroom.github.com/a/TflJb_rW)
 1. Assignment 1 is out (Implement count-min sketch algorithm as discussed in the class). Due date **Sep 19**.   
