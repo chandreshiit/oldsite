@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 author_profile: false
 ---
-**Research interests**: More broadly, I am interested in designing algorithms and models for processing big data. My work has been around in machine learning, data mining during my Ph.D. During my stint at IBM, I have started working in the text mining and natural language processing using deep learning. My current research is around designing deep architectures for understanding natural language.
+**Research interests**: More broadly, I am interested in designing algorithms and models for processing big data. My work has been around in machine learning, data mining during my Ph.D. During my stint at IBM, I have started working in text mining and natural language processing using deep learning. My current research is around designing deep architectures for understanding natural language.
 
 ### Book/Book Chapters 
 1. Data Stream Mining for Big Data (under preparation)
@@ -23,10 +23,10 @@ https://doi.org/10.1109/TBDATA.2017.2688372
 ### Papers in Conferences/Workshops:
 - Prediction of Invoice Payment Status in Account Payable Business Process}. Tarun Tater, Sampath Dechu, Senthil Mani, and Chandresh Kumar Maurya, **International Conference on Service-Oriented Computing (ICSOC)** 2018, China.
 - Anomaly Detection via Distributed Sparse Class-Imbalance Learning}. Chandresh Kumar Maurya, Durga Toshniwal, and  Vishal Agarwal, ( presented in International Conference on Machine Learning, **ICML 2016 workshop on Anomaly detection**, NY, USA).
-- Online Anomaly Detection via Class-Imbalance Learning}, Chandresh Kumar Maurya and Durga Toshniwal,  in  **International Conference on Contemporary Computing (IC3)** , organised jointly by JIIT Noida and University of Florida, USA, Sep 2015.
+- Online Anomaly Detection via Class-Imbalance Learning}, Chandresh Kumar Maurya and Durga Toshniwal,  in  **International Conference on Contemporary Computing (IC3)** , organized jointly by JIIT Noida and University of Florida, USA, Sep 2015.
 - Anomaly Detection in Nuclear Power Plant Data using Support Vector Data Description}, Chandresh Kumar Maurya and Durga Toshniwal, in  **IEEE TechSym** at IIT Kharagpur, Feb 2014.
 - Fuzzy Inference System for Internet Traffic Load Forecasting}, Chandresh Kumar Maurya and Sonajharia Minz. In the Proceedings of National Conference of Computing & Communications (NCCCS)-2012. DOI:10.1109/NCCCS.2012.6413010. 
-- Anomaly Detection in Streaming Data using Online Non-negative Matrix Factorization}, Chandresh Kumar Maurya, Arun Chauhan and Durga Toshniwal, poster presentation at International workshop on machine learning \& Text analytic(MLTA 2013), South Asian University, New Delhi.  (**Best  presentation Award**)
+- Anomaly Detection in Streaming Data using Online Non-negative Matrix Factorization}, Chandresh Kumar Maurya, Arun Chauhan, andDurga Toshniwal, poster presentation at International workshop on machine learning \& Text analytic(MLTA 2013), South Asian University, New Delhi.  (**Best  presentation Award**)
 
 
 
