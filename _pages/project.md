@@ -11,7 +11,7 @@ we look at the problem of multimodal incident similarity inference with the obje
 (In collaboration with NIT Shilong, India, IBM Research and NTNU Norway)  
 we are building  a model which can recommend the features/suggestions for improvement of the product/services based on crowd-source data. The challenge which lies ahead in this is to solve various NLP problems such as summarization, sarcasm detection, class-imbalance learning, semantic-clustering to new a few. We are looking at the state-of-the-art solution in the literature to build upon and to improve the existing system. The model will be useful to product developers, service managers to roll out new features for their products/services to gain competitive advantage. 
 
-3. **Intelligent reminder system based on multi-model data**  
+#3. **Intelligent reminder system based on multi-model data**  
 
 
 
