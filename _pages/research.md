@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 author_profile: false
 ---
-**Research interests**: More broadely, I am interested in designing algorithms and models for processing big data. My work has been around in machine learning, data mining during my Ph.D. During my stint at IBM, I have started working in the text mining and natural language processing using deep learning. My current research is around designing deep architectures for understanding natural language.
+**Research interests**: More broadly, I am interested in designing algorithms and models for processing big data. My work has been around in machine learning, data mining during my Ph.D. During my stint at IBM, I have started working in the text mining and natural language processing using deep learning. My current research is around designing deep architectures for understanding natural language.
 
 ### Book/Book Chapters 
 1. Data Stream Mining for Big Data (under preparation)
