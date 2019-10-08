@@ -33,7 +33,7 @@ Reference book:
     <th class="tg-0pky">Date</th>
     <th class="tg-0pky">Topics</th>
     <th class="tg-0pky">Reading/References</th>
-    <th class="tg-0pky">Slides/Papers</th>
+    <th class="tg-0pky">Slides/Papers/demo</th>
   </tr>
   <tr>
     <td class="tg-0pky">Sep 12</td>
@@ -58,6 +58,13 @@ Reference book:
     <td class="tg-0pky">histogram, wavelets and FT, concept drift</td>
     <td class="tg-0pky">from Chapter 2/3 in [1] wavelets is from <a href="http://web.iitd.ac.in/~sumeet/WaveletTutorial.pdf">link</a></td>
     <td class="tg-0pky"><a href="https://drive.google.com/open?id=1PxX0xyP77tEdIdGdnl_68p6whbThVzPa">lecture 4</a></td>
+  </tr>
+ <tr>
+    <td class="tg-0pky">Oct 8</td>
+    <td class="tg-0pky">concept drift and demos</td>
+    <td class="tg-0pky">chapter 3 in [1] </td>
+    <td class="tg-0pky"><a href="https://drive.google.com/open?id=1PxX0xyP77tEdIdGdnl_68p6whbThVzPa">lecture 5</a> <a href="https://drive.google.com/open?id=1zwvIHbxssTtJ_q5t5WWfXZxyhs50GUDO">CUSUM demo</a>
+			</td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
