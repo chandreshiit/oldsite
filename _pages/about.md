@@ -7,7 +7,7 @@ I am working as research assisstant professor at ELTE University, Budapest Hunga
 Note: Please see my [google scholar](https://scholar.google.com/citations?user=OR0yLJEAAAAJ&hl=en&authuser=2)   page  for publication.   
 If you are interested in working with me on any of the above topics, drop me an email. I would be happy to collaborate with.  
  
-My research adviser was [Dr. Durga Toshniwal](http://www.iitr.ac.in/departments/CSE/pages/People+Faculty+Durga_Toshniwal.html).  
+My research adviser was [Dr. Durga Toshniwal](http://www.durgatoshniwal.in).  
 During my Ph.D. Interned with Microsoft India R&D and Bosch Research, Bangalore.  
 Prior to my Ph.D. studies, I worked as JRF at IIT Roorkee , as a software engineer at Aricent Inc., Gurgaon.  
 Contact information:  
