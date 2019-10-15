@@ -67,10 +67,10 @@ Reference book:
 			</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Oct 15</td>
+    <td class="tg-0pky">Classification of Data stream</td>
+    <td class="tg-0pky">Chapter 3 in [2]</td>
+    <td class="tg-0pky"><a href="https://drive.google.com/open?id=1skKbdIf50oSKZrKZny-k1ixF5ogAiUR1">lecture 6</a><a href="http://www.cs.bham.ac.uk/~syw/documents/papers/Hang%20Zhang%20IEEE%20Access%202019.pdf">RE-DI paper</a></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
