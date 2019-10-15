@@ -10,5 +10,11 @@ If you are interested in working with me on any of the above topics, drop me an 
 My research adviser was [Dr. Durga Toshniwal](http://www.iitr.ac.in/departments/CSE/pages/People+Faculty+Durga_Toshniwal.html).  
 During my Ph.D. Interned with Microsoft India R&D and Bosch Research, Bangalore.  
 Prior to my Ph.D. studies, I worked as JRF at IIT Roorkee , as a software engineer at Aricent Inc., Gurgaon.  
-Email: ckm.jnu@gmail.com
+Contact information:  
+Email: ckm.jnu@gmail.com  
+Address:  
+ELTE-University – Faculty of Informatics  
+Data Science and Engineering Department  
+1518 Budapest, P. O. Box 120.  
+Hungary
 
