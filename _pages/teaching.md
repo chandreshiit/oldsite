@@ -63,7 +63,7 @@ Reference book:
     <td class="tg-0pky">Oct 8</td>
     <td class="tg-0pky">concept drift and demos</td>
     <td class="tg-0pky">chapter 3 in [1] </td>
-    <td class="tg-0pky"><a href="https://drive.google.com/open?id=1NTdq9tLKN-70YukZArJ6ruKp4CjVtsJk">lecture 5</a> <a href="https://drive.google.com/open?id=1zwvIHbxssTtJ_q5t5WWfXZxyhs50GUDO">CUSUM demo</a>
+    <td class="tg-0pky"><a href="https://drive.google.com/open?id=1NTdq9tLKN-70YukZArJ6ruKp4CjVtsJk">lecture 5</a>, <a href="https://drive.google.com/open?id=1zwvIHbxssTtJ_q5t5WWfXZxyhs50GUDO">CUSUM demo</a>
 			</td>
   </tr>
   <tr>
