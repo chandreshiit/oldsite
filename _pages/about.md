@@ -11,3 +11,4 @@ My research adviser was [Dr. Durga Toshniwal](http://www.iitr.ac.in/departments/
 During my Ph.D. Interned with Microsoft India R&D and Bosch Research, Bangalore.  
 Prior to my Ph.D. studies, I worked as JRF at IIT Roorkee , as a software engineer at Aricent Inc., Gurgaon.  
 Email: ckm.jnu@gmail.com
+

@@ -113,7 +113,13 @@ author:
   name             : "Chandresh Kumar Maurya"
   avatar           : /assets/images/Chandresh.jpg   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a research assisant professor"
-  location         : "ELTE University"
+  location         : "ELTE-University – Faculty of Informatics
+
+Data Science and Engineering Department
+
+1518 Budapest, P. O. Box 120.
+
+Hungary"
   email            : ckm.jnu@gmail.com
   links:
     - label: "Email"
