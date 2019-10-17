@@ -8,7 +8,7 @@ Note: Please see my [google scholar](https://scholar.google.com/citations?user=O
 If you are interested in working with me on any of the above topics, drop me an email. I would be happy to collaborate with.  
  
 My research adviser was [Dr. Durga Toshniwal](http://www.durgatoshniwal.in).  
-During my Ph.D. Interned with Microsoft India R&D and Bosch Research, Bangalore.  
+During my Ph.D. I interned with Microsoft India R&D and Bosch Research, Bangalore.  
 Prior to my Ph.D. studies, I worked as JRF at IIT Roorkee , as a software engineer at Aricent Inc., Gurgaon.  
 Contact information:  
 **Email**: ckm.jnu@gmail.com  
