@@ -27,7 +27,7 @@ Reference book:
 3. Mid-term           -20 marks
 5. Final exam         -50 marks
 ---
-Total		      100
+Total		      100   
 ---
 
 <style type="text/css">
