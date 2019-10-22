@@ -19,8 +19,16 @@ Reference book:
 **Lab Assignments**   Submit it [here](https://classroom.github.com/a/TflJb_rW)
 1. Assignment 1 is out (Implement count-min sketch algorithm as discussed in the class). Due date **Sep 19**.   
 2. Assignment 2 is out (Implementation of either of a) Flajolet-and Martin (FM algorithm), b) Bloom filter 3) ADWIN algorithm (see lecture slides 1 and 2). Due date **Sep 26**
-3. Assignment 3 is out ( PAPER READING [Dynamic Weighted Majority Algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.2481&rep=rep1&type=pdf). Understand the algorithm in the paper, download the data and start implementing it.
+3. Assignment 3 is out ( PAPER READING [Dynamic Weighted Majority Algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.2481&rep=rep1&type=pdf). Understand the algorithm in the paper, download the data and start implementing it. As par of assignment 3, you can choose to implement either one concept drift,classification, clustering algorithm for data stream. Due date **Nov 30**
 
+**Marks distribution**
+1. Assignment 1 and 2 -5  marks
+2. Assignment 3       -20 marks
+3. Mid-term           -20 marks
+5. Final exam         -50 marks
+---
+Total		      100
+---
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -73,10 +81,10 @@ Reference book:
     <td class="tg-0pky"><a href="https://drive.google.com/open?id=1skKbdIf50oSKZrKZny-k1ixF5ogAiUR1">lecture 6</a>, <a href="http://www.cs.bham.ac.uk/~syw/documents/papers/Hang%20Zhang%20IEEE%20Access%202019.pdf">RE-DI paper</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Oct 22</td>
+    <td class="tg-0pky">Clustering of data streams</td>
+    <td class="tg-0pky">Chapter 6 in [1]</td>
+    <td class="tg-0pky"><a href="https://drive.google.com/open?id=1rcEQf5Zu63wajzGiRh3bRJIjjNwJzJ61">lecture 7</a></td>
   </tr>
 </table>
 
