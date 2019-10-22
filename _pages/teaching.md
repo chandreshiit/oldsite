@@ -22,13 +22,8 @@ Reference book:
 3. Assignment 3 is out ( PAPER READING [Dynamic Weighted Majority Algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.2481&rep=rep1&type=pdf). Understand the algorithm in the paper, download the data and start implementing it. As par of assignment 3, you can choose to implement either one concept drift,classification, clustering algorithm for data stream. Due date **Nov 30**
 
 **Marks distribution**
-1. Assignment 1 and 2 -5  marks
-2. Assignment 3 &nbsp; &nbsp;&nbsp;-20 marks
-3. Mid-term  &nbsp; &nbsp; &nbsp;  -20 marks
-5. Final exam &nbsp; &nbsp; &nbsp; &nbsp; -50 marks
-___
-Total &nbsp; &nbsp; &nbsp; &nbsp; 100   
-___   
+Assignment 1 and 2 -5  marks, Assignment 3-20 marks, Mid-term-20 marks, Final exam  -50 marks
+
 
 
 <style type="text/css">
