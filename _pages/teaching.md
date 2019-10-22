@@ -25,10 +25,10 @@ Reference book:
 1. Assignment 1 and 2 -5  marks
 2. Assignment 3 &nbsp; &nbsp;&nbsp;-20 marks
 3. Mid-term  &nbsp; &nbsp; &nbsp;  -20 marks
-5. Final exam &nbsp; &nbsp; &nbsp; -50 marks
----
+5. Final exam &nbsp; &nbsp; &nbsp; &nbsp; -50 marks
+___
 Total &nbsp; &nbsp; &nbsp; &nbsp; 100   
----   
+___   
 
 
 <style type="text/css">
