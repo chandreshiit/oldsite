@@ -23,12 +23,13 @@ Reference book:
 
 **Marks distribution**
 1. Assignment 1 and 2 -5  marks
-2. Assignment 3       -20 marks
-3. Mid-term           -20 marks
-5. Final exam         -50 marks
+2. Assignment 3 &nbsp; &nbsp;&nbsp;-20 marks
+3. Mid-term  &nbsp; &nbsp; &nbsp;  -20 marks
+5. Final exam &nbsp; &nbsp; &nbsp; -50 marks
 ---
-Total		      100   
----
+Total &nbsp; &nbsp; &nbsp; &nbsp; 100   
+---   
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
