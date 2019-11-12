@@ -82,6 +82,12 @@ Assignment 1 and 2 -5 marks, Assignment 3-20 marks, Mid-term-20 marks, Final exa
     <td class="tg-0pky">Chapter 6 in [1]</td>
     <td class="tg-0pky"><a href="https://drive.google.com/open?id=1rcEQf5Zu63wajzGiRh3bRJIjjNwJzJ61">lecture 7</a></td>
   </tr>
+ <tr>
+    <td class="tg-0pky">Nov 12</td>
+    <td class="tg-0pky">Frequent pattern mining in data streams</td>
+    <td class="tg-0pky">Chapter 7 in [1]</td>
+    <td class="tg-0pky"><a href="https://drive.google.com/open?id=15NKfZmmB4o7-bQVNfB-dblXBVcnrJ2cH">lecture 8</a></td>
+  </tr>
 </table>
 
 
