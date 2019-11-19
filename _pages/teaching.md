@@ -88,6 +88,12 @@ Assignment 1 and 2 -5 marks, Assignment 3-20 marks, Mid-term-20 marks, Final exa
     <td class="tg-0pky">Chapter 7 in [1]</td>
     <td class="tg-0pky"><a href="https://drive.google.com/open?id=15NKfZmmB4o7-bQVNfB-dblXBVcnrJ2cH">lecture 8</a></td>
   </tr>
+<tr>
+    <td class="tg-0pky">Nov 19</td>
+    <td class="tg-0pky">Novelty detection in data streams</td>
+    <td class="tg-0pky">Chapter 9 in [1] and referred papper</td>
+    <td class="tg-0pky"><a href="https://drive.google.com/open?id=15NKfZmmB4o7-bQVNfB-dblXBVcnrJ2cH">lecture 9</a></td>
+  </tr>
 </table>
 
 
