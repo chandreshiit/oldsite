@@ -94,6 +94,12 @@ Assignment 1 and 2 -5 marks, Assignment 3-20 marks, Mid-term-20 marks, Final exa
     <td class="tg-0pky">Chapter 9 in [1] and referred papper</td>
     <td class="tg-0pky"><a href="https://drive.google.com/open?id=1DRpC9u1_bdG83_XZ6CH6MqWwC7oq08re">lecture 9</a></td>
   </tr>
+<tr>
+    <td class="tg-0pky">Nov 26</td>
+    <td class="tg-0pky">Streaming Time Series Mining</td>
+    <td class="tg-0pky">Chapter 11 in [1] and referred papper</td>
+    <td class="tg-0pky"><a href="https://drive.google.com/open?id=1hVPRfL_-gr6ELYqRlKQYcZup2D-55p-8">lecture 10</a></td>
+  </tr>
 </table>
 
 
