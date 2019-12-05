@@ -5,6 +5,11 @@ author_profile: false
 ---
 **Research interests**: More broadly, I am interested in designing algorithms and models for processing big data. My work has been around in machine learning, data mining during my Ph.D. During my stint at IBM, I have started working in text mining and natural language processing using deep learning. My current research is around designing deep architectures for understanding natural language.
 
+# Patents
+
+1. Nikhil Malhotra, Chandresh Kumar Maurya, and Anupama Ray, AN APPROACH FOR AUTOMATICALLY ADJUSTING DISPLAY SCREEN SETTING BASED ON MACHINE LEARNING (Filed), 
+
+
 ### Book/Book Chapters 
 1. Data Stream Mining for Big Data (under preparation)
 
