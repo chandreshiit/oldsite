@@ -100,6 +100,22 @@ Assignment 1 and 2 -5 marks, Assignment 3-20 marks, Mid-term-20 marks, Final exa
     <td class="tg-0pky">Chapter 11 in [1] and referred papper</td>
     <td class="tg-0pky"><a href="https://drive.google.com/open?id=1hVPRfL_-gr6ELYqRlKQYcZup2D-55p-8">lecture 10</a></td>
   </tr>
+    <tr>
+    <td class="tg-0pky">Dec 3</td>
+    <td class="tg-0pky">project presentation</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+     <tr>
+    <td class="tg-0pky">Dec 10</td>
+    <td class="tg-0pky">Distributed Stream Mining</td>
+    <td class="tg-0pky">Chapter 12 in [1] and referred papers</td>
+    <td class="tg-0pky"><a href="https://drive.google.com/open?id=1HCnYyj2NcVbhbefzeP7JPRYJCTXU1hN1"></a></td>
+  </tr>
 </table>
+
+
+
+
 
 
