@@ -13,7 +13,7 @@ Beam search is one of the many techniques for searching a graph such as *breadth
 
 Imagine that you got the following output from one of your LSTM cell.
 
-```Markdown
+```latex
 $$
 \begin{align*}
 y = y(x,t) &= A e^{i\theta} \\
@@ -25,6 +25,8 @@ y = y(x,t) &= A e^{i\theta} \\
 \end{align*}
 $$
 ```
+
+
 
 
 
