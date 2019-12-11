@@ -26,6 +26,8 @@ https://doi.org/10.1109/TBDATA.2017.2688372
 - A. Ray, P. Agarwal, **C. K. Maurya** and G. B. Dasgupta, "Creative tagline generation framework for product advertisement," in **IBM Journal of Research and Development**, vol. 63, no. 1, pp. 6:1-6:10, Jan.-Feb. 2019.(SCIE IF 0.6)
 
 ### Papers in Conferences/Workshops:
+
+- C.K. Maurya, Neelamadhav, Sampath Dechu, Tomas Horvath, Online Similarity Learning with Feedback for Invoice Line Item Matching, **AAAI 2020** Intelligent Process Automation (IPA-20) workshop, NY, USA, (*accepted*)
 - Prediction of Invoice Payment Status in Account Payable Business Process}. Tarun Tater, Sampath Dechu, Senthil Mani, and Chandresh Kumar Maurya, **International Conference on Service-Oriented Computing (ICSOC)** 2018, China.
 - Anomaly Detection via Distributed Sparse Class-Imbalance Learning}. Chandresh Kumar Maurya, Durga Toshniwal, and  Vishal Agarwal, ( presented in International Conference on Machine Learning, **ICML 2016 workshop on Anomaly detection**, NY, USA).
 - Online Anomaly Detection via Class-Imbalance Learning}, Chandresh Kumar Maurya and Durga Toshniwal,  in  **International Conference on Contemporary Computing (IC3)** , organized jointly by JIIT Noida and University of Florida, USA, Sep 2015.
