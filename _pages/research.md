@@ -11,7 +11,7 @@ author_profile: false
 
 
 ### Book/Book Chapters 
-1. Data Stream Mining for Big Data (under preparation)
+1. Data Stream Mining for Big Data, book chapter accepted  in the book titled "Applied Intelligent Decision Making in Machine Learning" which will be published from CRC press in 2020. (**NEW**)
 
 ### Manuscripts under review:
 - Online Similarity Learning with Feedback for Invoice Line Item Matching
