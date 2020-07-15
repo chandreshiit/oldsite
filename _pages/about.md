@@ -9,12 +9,7 @@ permalink: /about/
 
 ***
 
-1. Machine learning
-2. Natural language processing
-3. Information retrieval
-4. Data Mining
-5. Deep learning
-6. Artificial intelligence
+Machine learning, Natural language processing, Information retrieval, Data Mining, Deep learning, Artificial intelligence
 
 ***
 

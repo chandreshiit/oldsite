@@ -20,7 +20,7 @@ title                    : "Chandresh Kumar Maurya"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chandresh Kumar Maurya"
-description              : "Assistant Professor at ELTE University, Budapest"
+description              : "Assistant Professor at IIT Indore"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : chandu8542  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -112,8 +112,8 @@ analytics:
 author:
   name             : "Chandresh Kumar Maurya"
   avatar           : /assets/images/Chandresh.jpg   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a research assisant professor"
-  location         : "ELTE University"
+  bio              : "Assisant professor"
+  location         : "IIT Indore"
   email            : ckm.jnu@gmail.com
   links:
     - label: "Email"
