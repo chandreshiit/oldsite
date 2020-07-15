@@ -2,19 +2,66 @@
 title: "About"
 permalink: /about/
 ---
-I am working as research assisstant professor at ELTE University, Budapest Hungary. Before this, I was a Research Scientist at IBM Research at Bangalore from Jan 2017-2019.  I completed my Ph.D. in Computer Science from [IIT Roorkee](https://www.iitr.ac.in/departments/CSE/pages/index.html), India. I am interested in building models, making a prediction using Data Mining/Machine learning Techniques.  
-**Research Interests**:- Machine Learning( Online Learning and optimization), Data Mining(Anomaly detection, stream mining), Creative AI, NLP, IR and Deep Learning.  
+
+***
+
+**Research Interests**
+
+***
+
+1. Machine learning
+2. Natural language processing
+3. Information retrieval
+4. Data Mining
+5. Deep learning
+6. Artificial intelligence
+
+***
+
+**Experience**
+
+***
+
+| Duration            | Organisation                                                 | Designation                  |
+| ------------------- | ------------------------------------------------------------ | ---------------------------- |
+| July 2020-          | [Indian Institute of Technology, Indore ](http://cse.iiti.ac.in/) | Assistant professor          |
+| Feb 2020-July 2020  | National Institute of Technology, Delhi                      | Assistant professor          |
+| March 2019-Feb 2020 | Telekom Innovation laboratory, ELTE University, Hungary      | research assistant professor |
+| Jan 2017-Jan 2019   | IBM Research, Bangalore                                      | Research Scientist           |
+
+***
+
+**Education**
+
+***
+
+| Duration            | Institute/University                        | Degree |
+| ------------------- | ------------------------------------------- | ------ |
+| July 2013-Dec 2016  | Indian Institute Technology, Roorkee, India | Ph.D.  |
+| July 2010-June 2012 | Jawaharlal Nehru University, New Delhi      | M.Tech |
+| July 2006-June 2010 | BIET Jhansi                                 | B.Tech |
+
 Note: Please see my [google scholar](https://scholar.google.com/citations?user=OR0yLJEAAAAJ&hl=en&authuser=2)   page  for publication.   
+
 If you are interested in working with me on any of the above topics, drop me an email. I would be happy to collaborate with.  
- 
-My research adviser was [Dr. Durga Toshniwal](http://www.durgatoshniwal.in).  
-During my Ph.D. I interned with Microsoft India R&D and Bosch Research, Bangalore.  
-Prior to my Ph.D. studies, I worked as JRF at IIT Roorkee , as a software engineer at Aricent Inc., Gurgaon.  
-Contact information:  
+
+During gaps in my academic career,  I interned with Microsoft India R&D and Bosch Research, Bangalore.  Prior to my Ph.D. studies, I worked as JRF at IIT Roorkee , as a software engineer at Aricent Inc., Gurgaon. 
+
+***
+
+**Contacts**
+
+***
+
 **Email**: ckm.jnu@gmail.com  
-**Address**:  
-ELTE-University – Faculty of Informatics  
-Data Science and Engineering Department  
-1518 Budapest, P. O. Box 120.  
-Hungary
+
+**Address**
+
+ *Department of Computer Science & Engineering,*
+
+*Indian Institute of Technology Indore,*
+
+*Khandwa Road, Simrol, Indore 453552,*
+
+*India*
 
