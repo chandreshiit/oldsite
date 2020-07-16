@@ -21,7 +21,7 @@ Machine learning, Natural language processing, Information retrieval, Data Minin
 | ------------------- | ------------------------------------------------------------ | ---------------------------- |
 | July 2020-          | [Indian Institute of Technology, Indore ](http://cse.iiti.ac.in/) | Assistant professor          |
 | Feb 2020-July 2020  | National Institute of Technology, Delhi                      | Assistant professor          |
-| March 2019-Feb 2020 | Telekom Innovation laboratory, ELTE University, Hungary      | research assistant professor |
+| March 2019-Feb 2020 | Telekom Innovation laboratory, ELTE University, Hungary      | Research assistant professor |
 | Jan 2017-Jan 2019   | IBM Research, Bangalore                                      | Research Scientist           |
 
 ***
