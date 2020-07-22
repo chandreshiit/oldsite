@@ -11,7 +11,7 @@ permalink: /about/
 
 Machine learning, Natural language processing, Information retrieval, Data Mining, Deep learning, Artificial intelligence
 
-**Note: **<font color='red'>Looking for Motivated Students (Ph.D./M.Tech/MS/B.Tech) willing to give a head-start in research. Drop me an email if interested.</font>
+**Note: **  <font color='red'>Looking for Motivated Students (Ph.D./M.Tech/MS/B.Tech) willing to give a head-start in research. Drop me an email if interested.</font>
 
 
 
