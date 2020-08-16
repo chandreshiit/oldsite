@@ -14,13 +14,15 @@ author_profile: false
 
 
 
+
+
 **Instructor:    Dr. Chandresh Kumar Maurya**
 
-**Lecture     :   415 (North Building),**         
+**Lecture     :   Online**        
 
-**Time         :   12:00 -14:00 PM**  
+**Time         :   12:00 -14:00 PM** 
 
-**Office       :    415 in POD A bundling.**  
+**Office       :    415 in POD A building** 
 
 **Meeting hours: 16:00-17:00  PM**  
 
