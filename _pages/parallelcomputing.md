@@ -1,6 +1,6 @@
 ---
 permalink: /parallelcomputing/
-title: "Data Stream Mining"
+title: "Parallel Computing"
 author_profile: false
 ---
 
