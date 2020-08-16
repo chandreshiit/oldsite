@@ -6,7 +6,7 @@ author_profile: false
 
 ##### Currently Teaching
 
-1. CS-309 Parallel Computing (Autumn 2020)
+1. CS-309 Parallel Computing (Autumn 2020) ([course homepage](/parallelcomputing/))
 
 ##### Past Courses
 
