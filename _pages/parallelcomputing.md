@@ -14,6 +14,8 @@ author_profile: false
   
   **Meeting hours: 16:00-17:00  PM**  
   
+  **Text Books:**
+  
   1. Ananth Grama, George Karypis, Vipin Kumar, Anshul Gupta - Introduction to parallel computing-Addison Wesley (2003)
   2. Peter Pacheco - An Introduction to Parallel Programming-Morgan Kaufmann (2011)
   3. (Undergraduate Topics in Computer Science) Roman Trobec, Boštjan Slivnik, Patricio Bulić, Borut Robič - Introduction to Parallel Computing_ From Algorithms to Programming on State-of-the-Art Platforms   
