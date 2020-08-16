@@ -19,7 +19,7 @@ Reference book:
 **Lab Assignments**   Submit it [here](https://classroom.github.com/a/TflJb_rW)
 1. Assignment 1 is out (Implement count-min sketch algorithm as discussed in the class). Due date **Sep 19**.   
 2. Assignment 2 is out (Implementation of either of a) Flajolet-and Martin (FM algorithm), b) Bloom filter 3) ADWIN algorithm (see lecture slides 1 and 2). Due date **Sep 26**
-3. Assignment 3 is out ( PAPER READING [Dynamic Weighted Majority Algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.2481&rep=rep1&type=pdf). Understand the algorithm in the paper, download the data and start implementing it. As par of assignment 3, you can choose to implement either one concept drift,classification, clustering algorithm for data stream. Due date **Nov 30**
+   3. Assignment 3 is out ( PAPER READING [Dynamic Weighted Majority Algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.2481&rep=rep1&type=pdf). Understand the algorithm in the paper, download the data and start implementing it. As par of assignment 3, you can choose to implement either one concept drift,classification, clustering algorithm for data stream. Due date **Nov 30**
 
 **Marks distribution**  
 Assignment 1 and 2 -5 marks, Assignment 3-20 marks, Mid-term-20 marks, Final exam-50 marks.
