@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Data Stream Mining"
+title: "Courses"
 author_profile: false
 ---
 
@@ -24,7 +24,7 @@ Meeting hours: 16:00-17:00  PM
 
 ##### Past Courses
 
-1. Data Stream Mining ([click here](/datastream/))
+1. Data Stream Mining ([click here](/datastream/)) taught at while @ELTE 
 
 
 
