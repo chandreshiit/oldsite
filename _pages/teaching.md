@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/
+permalink: /Courses/
 title: "Data Stream Mining"
 author_profile: false
 ---
