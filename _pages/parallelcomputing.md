@@ -43,7 +43,7 @@ author_profile: false
     <td class="tg-0pky">Aug 24</td>
     <td class="tg-0pky">Introduction to parallel computing</td>
     <td class="tg-0pky">chapter 1 from ref. 2 and 3</td>
-    <td class="tg-0pky"> <!--<a href="https://drive.google.com/file/d/1yw7ThJel14qX1eLXiQas1BYUHyQuT4A0/view?usp=sharing">intro</a> --> </td> 
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1pFuFsWr3X17MA2V76WEC1AuEPv9vGaEO/view?usp=sharing">intro</a> <a href="https://drive.google.com/file/d/1SZCDndXMx14AVDMXJ2LVd076iBmRFcFE/view?usp=sharing">Video </a> </td> 
   </tr>
 </table>
 
