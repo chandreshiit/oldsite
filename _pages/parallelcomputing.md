@@ -13,6 +13,8 @@ author_profile: false
 >**Office       :    415 in POD A building** 
 >
 >**Meeting hours: 16:00-17:00  PM**  
+>
+>**TA			:   Fyse Nassar**
 
   **Text Books:**
 
