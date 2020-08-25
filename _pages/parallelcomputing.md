@@ -45,7 +45,13 @@ author_profile: false
     <td class="tg-0pky">Aug 24</td>
     <td class="tg-0pky">Introduction to parallel computing</td>
     <td class="tg-0pky">chapter 1 from ref. 2 and 3</td>
-       <td class="tg-0pky"> <a href="https://mycloud.iiti.ac.in/index.php/s/idroQLaRgp3ss6E">intro</a> </td> 
+       <td class="tg-0pky"> <a href="https://mycloud.iiti.ac.in/index.php/s/idroQLaRgp3ss6E">PDF</a> </td> 
+  </tr>
+    <tr>
+    <td class="tg-0pky">Aug 25</td>
+    <td class="tg-0pky">parallel computing plateforms</td>
+    <td class="tg-0pky">chapter 2 from ref. 1,2 and 3</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1ey-vJeEFDSmWQfJWxk0w-_rzqo5OSobP/view?usp=sharing">PDF</a> </td> 
   </tr>
 </table>
 
