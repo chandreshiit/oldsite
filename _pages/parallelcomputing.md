@@ -55,6 +55,13 @@ author_profile: false
     <td class="tg-0pky">chapter 2 from ref. 1,2 and 3</td>
         <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1ey-vJeEFDSmWQfJWxk0w-_rzqo5OSobP/view?usp=sharing">PDF</a> <a href="https://drive.google.com/file/d/1DAJWm6i56qkrnizvpXmYaO1N9_-Q1cwr/view?usp=sharing"> video</a> </td> 
   </tr>
+     <tr>
+    <td class="tg-0pky">Aug 27</td>
+    <td class="tg-0pky">parallel computing plateforms: Cahce, virtual memory</td>
+    <td class="tg-0pky">chapter 2 from ref. 1,2 and 3</td>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1ey-vJeEFDSmWQfJWxk0w-_rzqo5OSobP/view?usp=sharing">PDF</a> <a href=" https://drive.google.com/file/d/1CT8EmKScNYCccJs7fEsdn8E223rL_Tnx/view?usp=sharing"> video</a> </td> 
+  </tr>
+   
 </table>
 
 
