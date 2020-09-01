@@ -66,10 +66,18 @@ author_profile: false
     <td class="tg-0pky">parallel computing plateforms: models of parallel computer</td>
     <td class="tg-0pky">chapter 2 from ref. 1,2 and 3</td>
         <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1ey-vJeEFDSmWQfJWxk0w-_rzqo5OSobP/view?usp=sharing">PDF</a> <a href="  https://drive.google.com/file/d/1yOS69XsQByGit5V24d6Uh8_IQOUXmwQ9/view?usp=sharing"> video</a> </td> 
+  </tr>  
+    <tr>
+    <td class="tg-0pky">Sep 1</td>
+    <td class="tg-0pky">parallel computing plateforms: pipeliling and superscalar multiprocessor</td>
+    <td class="tg-0pky">chapter 2 from ref. 1,2 and 3</td>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1cQniqMBDnQHq4e3M0WkqnEYSIHrxUaY7/view?usp=sharing">PDF</a> <a href="  https://drive.google.com/file/d/1Thphhiag_nToeotQlarK07jbw6AgWEWP/view?usp=sharing"> video</a> </td> 
   </tr>
-    
-    
-   
+
+
+
+​    
+
 </table>
 
 
