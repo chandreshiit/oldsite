@@ -71,14 +71,19 @@ author_profile: false
     <td class="tg-0pky">Sep 1</td>
     <td class="tg-0pky">parallel computing plateforms: pipelining and superscalar multiprocessor</td>
     <td class="tg-0pky">chapter 2 from ref. 1,2 and 3</td>
-        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1cQniqMBDnQHq4e3M0WkqnEYSIHrxUaY7/view?usp=sharing">PDF</a> <a href="  https://drive.google.com/file/d/1Thphhiag_nToeotQlarK07jbw6AgWEWP/view?usp=sharing"> video</a> </td> 
-  </tr>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1cQniqMBDnQHq4e3M0WkqnEYSIHrxUaY7/view?usp=sharing">PDF</a> <a href="  https://drive.google.com/file/d/1Thphhiag_nToeotQlarK07jbw6AgWEWP/view?usp=sharing"> video</a> </td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">Sep 3</td>
+    <td class="tg-0pky">parallel computing plateforms: Shared memory vs message passing</td>
+    <td class="tg-0pky">chapter 2 in ref. 1</td>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1jmF1Pul6UeMH9JD3iTjEEkxwBT-iRihH/view?usp=sharing">PDF</a> <a href="   https://drive.google.com/file/d/1Hf199ZLBB3tQSbOet0a_0xQRsKxHUhYV/view?usp=sharing"> video</a> </td>   </tr></table>
 
 
 
-​    
+ 
 
-</table>
+
 
 
 
