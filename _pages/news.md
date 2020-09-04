@@ -16,7 +16,5 @@ permalink: /news/
 
 
 
-<font color="Blue">**News:**</font>
-
 * Invited as program committee(PC) member for AAAI-2021.
 
