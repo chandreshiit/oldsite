@@ -17,4 +17,5 @@ permalink: /news/
 
 
 * Invited as program committee(PC) member for AAAI-2021.
+* Invited as TPC for IEEE MASS 2020
 
