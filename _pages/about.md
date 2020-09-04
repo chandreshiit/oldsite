@@ -9,17 +9,7 @@ permalink: /about/
 
 ***
 
-Machine learning, Natural language processing, Information retrieval, Data Mining, Deep learning, Artificial intelligence
-
-**Note:**  1. <font color='red'>Looking for motivated students (Ph.D./M.Tech/MS/B.Tech) willing to give a head-start in research. Drop me an email if interested.</font>
-
-2. A strong background in mathematics, linear algebra, machine learning, NLP with coding skills in python/C++/java and familiarity with tensorflow, keras, pytorch is a plus.
-
-3. While sending me an email for PhD/internship, include in your email your a) recent CV b) a good research proposal which aligns with my research interest.
-
-   
-
-
+Machine learning, Natural language processing, Information retrieval, Data Mining, Deep learning, Artificial intelligence. See my research page for more in-depth view of my work.
 
 ***
 
@@ -50,7 +40,7 @@ Note: Please see my [google scholar](https://scholar.google.com/citations?user=O
 
 If you are interested in working with me on any of the above topics, drop me an email. I would be happy to collaborate with.  
 
-During gaps in my academic career,  I interned with Microsoft India R&D and Bosch Research, Bangalore.  Prior to my Ph.D. studies, I worked as JRF at IIT Roorkee , as a software engineer at Aricent Inc., Gurgaon. 
+During gaps in my academic career,  I interned with **Microsoft India R&D and Bosch Research, Bangalore**.  Prior to my Ph.D. studies, I worked as JRF at IIT Roorkee , as a software engineer at Aricent Inc., Gurgaon. 
 
 ***
 
