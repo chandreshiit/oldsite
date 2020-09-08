@@ -77,7 +77,20 @@ author_profile: false
     <td class="tg-0pky">Sep 3</td>
     <td class="tg-0pky">parallel computing plateforms: Shared memory vs message passing</td>
     <td class="tg-0pky">chapter 2 in ref. 1</td>
-        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1jmF1Pul6UeMH9JD3iTjEEkxwBT-iRihH/view?usp=sharing">PDF</a> <a href="   https://drive.google.com/file/d/1Hf199ZLBB3tQSbOet0a_0xQRsKxHUhYV/view?usp=sharing"> video</a> </td>   </tr></table>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1jmF1Pul6UeMH9JD3iTjEEkxwBT-iRihH/view?usp=sharing">PDF</a> <a href="   https://drive.google.com/file/d/1Hf199ZLBB3tQSbOet0a_0xQRsKxHUhYV/view?usp=sharing"> video</a> </td>   </tr>
+    <tr>
+    <td class="tg-0pky">Sep 7</td>
+    <td class="tg-0pky">parallel computing plateforms: vector processor, GPUS</td>
+    <td class="tg-0pky">see slides</td>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1jmF1Pul6UeMH9JD3iTjEEkxwBT-iRihH/view?usp=sharing">PDF</a> <a href="   https://drive.google.com/file/d/1JixBO7yyAq_T1LRzoCtqkUd3smXzIIvK/view?usp=sharing"> video</a> </td>   </tr>
+    <tr>
+    <td class="tg-0pky">Sep 8</td>
+    <td class="tg-0pky">parallel computing plateforms: Introduction to Interconnect networks</td>
+    <td class="tg-0pky">see slides</td>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1e4Tk3lR41VkOEio7ROfBQKggWlf5Tv-M/view?usp=sharing">PDF</a> <a href="   https://drive.google.com/file/d/1NIOLkfsEZQSBi8iLSIV-Ig7QAhP7Sin4/view?usp=sharing"> video</a> </td>   </tr>
+    
+
+</table>
 
 
 
