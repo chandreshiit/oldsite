@@ -87,10 +87,21 @@ author_profile: false
     <td class="tg-0pky">Sep 8</td>
     <td class="tg-0pky">parallel computing plateforms: Introduction to Interconnect networks</td>
     <td class="tg-0pky">see slides</td>
-        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1e4Tk3lR41VkOEio7ROfBQKggWlf5Tv-M/view?usp=sharing">PDF</a> <a href="   https://drive.google.com/file/d/1NIOLkfsEZQSBi8iLSIV-Ig7QAhP7Sin4/view?usp=sharing"> video</a> </td>   </tr>
-    
-
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1e4Tk3lR41VkOEio7ROfBQKggWlf5Tv-M/view?usp=sharing">PDF</a> <a href="   https://drive.google.com/file/d/1NIOLkfsEZQSBi8iLSIV-Ig7QAhP7Sin4/view?usp=sharing"> video</a> </td>   </tr> 
+    <tr>
+    <td class="tg-0pky">Sep 10</td>
+    <td class="tg-0pky">parallel Interconnect networks topology </td> 
+    <td class="tg-0pky">see slides</td>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1GajBFF1TxVmhnmHI88emfc5uycLhE4RS/view?usp=sharing">PDF</a> <a href="  https://drive.google.com/file/d/1U_J-rOJRUapvsBZrX3X8JXw2YPDLvni3/view?usp=sharing"> video</a> </td>   </tr>
 </table>
+
+
+
+
+
+​    
+
+
 
 
 
