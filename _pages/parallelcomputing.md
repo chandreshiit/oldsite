@@ -95,11 +95,40 @@ author_profile: false
         <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1GajBFF1TxVmhnmHI88emfc5uycLhE4RS/view?usp=sharing">PDF</a> <a href="  https://drive.google.com/file/d/1U_J-rOJRUapvsBZrX3X8JXw2YPDLvni3/view?usp=sharing"> video</a> </td>   </tr>
 </table>
 
+#### Tutorials
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Date</th>
+    <th class="tg-0pky">Topics</th>
+    <th class="tg-0pky">Reading/References</th>
+    <th class="tg-0pky">Slides/Papers/demo</th>
+  </tr>
+   <tr>
+    <td class="tg-0pky">Aug 29</td>
+    <td class="tg-0pky">Memory Management</td>
+    <td class="tg-0pky">see slides</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1YIwoEXm3dzw8a8oDtTCNWRuYMs0KC_kx/view?usp=sharing">PDF</a>
+       <a href="https://drive.google.com/file/d/1OiucIgJgpPE9ChraYpAudBb-VtJyaYHt/view?usp=sharing"> video</a>
+       </td> 
+  </tr> <tr>
+    <td class="tg-0pky">Sep 5</td>
+    <td class="tg-0pky">Pipelining</td>
+    <td class="tg-0pky">see slides</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1gLx4XVDBw9UCeuop-tG7efJZbaorkaeC/view?usp=sharing">PDF</a>
+       <a href="https://drive.google.com/file/d/1NU3rkm_s5mVEZkBxy36yvQQCqjPSEnUJ/view?usp=sharing"> video</a>
+       </td> 
+  </tr>
+</table>
 
 
 
-
-​    
 
 
 
