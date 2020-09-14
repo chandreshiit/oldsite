@@ -93,6 +93,11 @@ author_profile: false
     <td class="tg-0pky">parallel Interconnect networks topology </td> 
     <td class="tg-0pky">see slides</td>
         <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1GajBFF1TxVmhnmHI88emfc5uycLhE4RS/view?usp=sharing">PDF</a> <a href="  https://drive.google.com/file/d/1U_J-rOJRUapvsBZrX3X8JXw2YPDLvni3/view?usp=sharing"> video</a> </td>   </tr>
+     <tr>
+    <td class="tg-0pky">Sep 14</td>
+    <td class="tg-0pky">parallel Interconnect networks: Switching and flow control </td> 
+    <td class="tg-0pky">see slides</td>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/16HWiR5papTGXXBBY4YT2YLv_BH2nd38x/view?usp=sharing">PDF</a> <a href=" https://drive.google.com/file/d/1b5C37MIct1hdTL1-TPf0Rc5pZ4J-6egF/view?usp=sharing"> video</a> </td>   </tr>
 </table>
 
 #### Tutorials
@@ -126,6 +131,7 @@ author_profile: false
        </td> 
   </tr>
 </table>
+
 
 
 
