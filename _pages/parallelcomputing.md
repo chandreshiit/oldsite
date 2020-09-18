@@ -106,8 +106,8 @@ author_profile: false
     <tr>
     <td class="tg-0pky">Sep 18</td>
     <td class="tg-0pky">Parallel Computational Complexity: Brent's/Amdhal's Law </td> 
-    <td class="tg-0pky">see slides</td>
-        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1epszOFiyeEYsoamnopRP0PiDGiUMY_nY/view?usp=sharing">PDF</a> <a href="https://drive.google.com/file/d/1fl5dKjWrzmP2Ph7Ltz095ujTwDgogyqe/view?usp=sharing"> video</a> </td>   </tr>
+    <td class="tg-0pky">see slides, Assignment 1 out</td>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1epszOFiyeEYsoamnopRP0PiDGiUMY_nY/view?usp=sharing">PDF</a> <a href="https://drive.google.com/file/d/1fl5dKjWrzmP2Ph7Ltz095ujTwDgogyqe/view?usp=sharing"> video</a>  <a href="https://drive.google.com/file/d/1OmTMhGz3l1AjNKmIwLX0G6tP-08VbX0p/view?usp=sharing">Assignment 1 (Due Sep 2)</a> </td>   </tr>
 </table>
 
 #### Tutorials
