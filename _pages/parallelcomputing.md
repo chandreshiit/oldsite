@@ -108,6 +108,11 @@ author_profile: false
     <td class="tg-0pky">Parallel Computational Complexity: Brent's/Amdhal's Law </td> 
     <td class="tg-0pky">see slides, Assignment 1 out</td>
         <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1epszOFiyeEYsoamnopRP0PiDGiUMY_nY/view?usp=sharing">PDF</a> <a href="https://drive.google.com/file/d/1fl5dKjWrzmP2Ph7Ltz095ujTwDgogyqe/view?usp=sharing"> video</a>  <a href="https://drive.google.com/file/d/1OmTMhGz3l1AjNKmIwLX0G6tP-08VbX0p/view?usp=sharing">Assignment 1 (Due Sep 22)</a> </td>   </tr>
+    <tr>
+    <td class="tg-0pky">Sep 21</td>
+    <td class="tg-0pky"> </td> Principle of Parallel Algorithm design: Decomposition, Granularity etc.
+    <td class="tg-0pky">see slides</td>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/16acXqoRyyQ6-ABsqZcTxmc0rb-eeKvTH/view?usp=sharing">PDF</a>  <a href="https://drive.google.com/file/d/1fxxosWDHWeAQkDcO0s912x_6ms6AC6ax/view?usp=sharing">video</a> </td>   </tr>
 </table>
 
 #### Tutorials
@@ -138,6 +143,15 @@ author_profile: false
     <td class="tg-0pky">see slides</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1gLx4XVDBw9UCeuop-tG7efJZbaorkaeC/view?usp=sharing">PDF</a>
        <a href="https://drive.google.com/file/d/1NU3rkm_s5mVEZkBxy36yvQQCqjPSEnUJ/view?usp=sharing"> video</a>
+       </td> 
+  </tr>
+    <tr>
+    <td class="tg-0pky">Sep 19</td>
+    <td class="tg-0pky">Brent's Theorem/Amdhal's law+MPI</td>
+    <td class="tg-0pky">see slides</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1-VuwMH-C87TFUQjqw6hUZBvv_i7hEZzG/view?usp=sharing">PDF</a>
+           <a href="https://drive.google.com/file/d/10EfMP6Wmnev3mAVpzgpOgQKrhB67FBvJ/view?usp=sharing">PDF</a>
+       <a href="https://drive.google.com/file/d/1Vc4U8u1dxBNJx02XncrwH7WKGixDQ1wF/view?usp=sharing"> video</a>
        </td> 
   </tr>
 </table>
