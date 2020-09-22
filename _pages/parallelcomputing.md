@@ -113,6 +113,11 @@ author_profile: false
         <td class="tg-0pky"> </td> Principle of Parallel Algorithm design: Decomposition, Granularity etc.</td>
     <td class="tg-0pky">see slides</td>
         <td class="tg-0pky"> <a href="https://drive.google.com/file/d/16acXqoRyyQ6-ABsqZcTxmc0rb-eeKvTH/view?usp=sharing">PDF</a>  <a href="https://drive.google.com/file/d/1fxxosWDHWeAQkDcO0s912x_6ms6AC6ax/view?usp=sharing">video</a> </td>   </tr>
+ <tr>
+    <td class="tg-0pky">Sep 21</td>
+        <td class="tg-0pky"> </td> Principle of Parallel Algorithm design: Decomposition, Granularity etc.</td>
+    <td class="tg-0pky">see slides</td>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/16acXqoRyyQ6-ABsqZcTxmc0rb-eeKvTH/view?usp=sharing">PDF</a>  <a href="https://drive.google.com/file/d/1AyUqqd9OXWjF-ZWvn7cabZ3RCPgEvDeu/view?usp=sharing">video</a> </td>   </tr>
 </table>
 
 #### Tutorials
