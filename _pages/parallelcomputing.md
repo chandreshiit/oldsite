@@ -119,7 +119,7 @@ author_profile: false
     <td class="tg-0pky">see slides</td>
         <td class="tg-0pky"> <a href="https://drive.google.com/file/d/16acXqoRyyQ6-ABsqZcTxmc0rb-eeKvTH/view?usp=sharing">PDF</a>  <a href="https://drive.google.com/file/d/1AyUqqd9OXWjF-ZWvn7cabZ3RCPgEvDeu/view?usp=sharing">video</a> </td>   </tr>
      <tr>
-    <td class="tg-0pky">Sep 22</td>
+    <td class="tg-0pky">Sep 24</td>
         <td class="tg-0pky"> MPI Introduction+demo</td>
     <td class="tg-0pky">see slides, Assignment 2 and 3 out</td>
          <td class="tg-0pky"><a href="https://drive.google.com/file/d/16b0WB-PEouPPf0y5kstgprYDTN59ofFm/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/1lCxkpKqX7_L0qifoadRkMxGDGN9CtiEf/view?usp=sharing">video</a>, Download Assignment 2 and 3 starter code from <a href=" https://drive.google.com/drive/folders/1gtwUuMcztQtCAAJZd0CfcbZwGEVwD-Bz?usp=sharing"> here </a> </td>     </tr></table>
