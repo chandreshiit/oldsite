@@ -122,7 +122,11 @@ author_profile: false
     <td class="tg-0pky">Sep 24</td>
         <td class="tg-0pky"> MPI Introduction+demo</td>
     <td class="tg-0pky">see slides, Assignment 2 and 3 out</td>
-         <td class="tg-0pky"><a href="https://drive.google.com/file/d/16b0WB-PEouPPf0y5kstgprYDTN59ofFm/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/1lCxkpKqX7_L0qifoadRkMxGDGN9CtiEf/view?usp=sharing">video</a>, Download Assignment 2 and 3 starter code from <a href=" https://drive.google.com/drive/folders/1gtwUuMcztQtCAAJZd0CfcbZwGEVwD-Bz?usp=sharing"> here </a> </td>     </tr></table>
+         <td class="tg-0pky"><a href="https://drive.google.com/file/d/16b0WB-PEouPPf0y5kstgprYDTN59ofFm/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/1lCxkpKqX7_L0qifoadRkMxGDGN9CtiEf/view?usp=sharing">video</a>, Download Assignment 2 and 3 starter code from <a href=" https://drive.google.com/drive/folders/1gtwUuMcztQtCAAJZd0CfcbZwGEVwD-Bz?usp=sharing"> here </a> </td>     </tr> <tr>
+    <td class="tg-0pky">Sep 28</td>
+        <td class="tg-0pky"> Message-passing basics</td>
+    <td class="tg-0pky">see slides</td>
+         <td class="tg-0pky"><a href="https://drive.google.com/file/d/1WdccssK1NZc9_y99U9H1GwI5ya1A4Cju/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/10r5mo13tkF0VI4wdJ3C6j6SbiJg2hmiM/view?usp=sharing">video</a></td>     </tr></table>
 
 #### Tutorials
 
@@ -163,6 +167,14 @@ author_profile: false
        <a href="https://drive.google.com/file/d/1Vc4U8u1dxBNJx02XncrwH7WKGixDQ1wF/view?usp=sharing"> video</a>
        </td> 
   </tr>
+      <tr>
+    <td class="tg-0pky">Sep 25</td>
+    <td class="tg-0pky">MPI point to point communication</td>
+    <td class="tg-0pky">see slides</td>
+       <td class="tg-0pky"> <a href=" https://drive.google.com/file/d/1hbK7Shb6T_tUE-xutiMfoq8rACs9bvB8/view?usp=sharing">PDF</a>
+           <a href="https://drive.google.com/file/d/1cxyCvK1PEnETym4u2w69MVxNSRqxS9QN/view?usp=sharing">Video</a>      
+       </td> 
+  </tr>  
 </table>
 
 
