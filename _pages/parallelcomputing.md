@@ -126,7 +126,13 @@ author_profile: false
     <td class="tg-0pky">Sep 28</td>
         <td class="tg-0pky"> Message-passing basics</td>
     <td class="tg-0pky">see slides</td>
-         <td class="tg-0pky"><a href="https://drive.google.com/file/d/1WdccssK1NZc9_y99U9H1GwI5ya1A4Cju/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/10r5mo13tkF0VI4wdJ3C6j6SbiJg2hmiM/view?usp=sharing">video</a></td>     </tr></table>
+         <td class="tg-0pky"><a href="https://drive.google.com/file/d/1WdccssK1NZc9_y99U9H1GwI5ya1A4Cju/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/10r5mo13tkF0VI4wdJ3C6j6SbiJg2hmiM/view?usp=sharing">video</a></td>     </tr>
+    <tr>
+    <td class="tg-0pky">Sep 29</td>
+        <td class="tg-0pky"> Message-passing basics</td>
+    <td class="tg-0pky">see slides</td>
+         <td class="tg-0pky"><a href="https://drive.google.com/file/d/1WdccssK1NZc9_y99U9H1GwI5ya1A4Cju/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/1p0HV31o_opx6G3FaxKKktRFC52bZszv-/view?usp=sharing">video</a></td>     </tr>
+</table>
 
 #### Tutorials
 
