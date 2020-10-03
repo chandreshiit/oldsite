@@ -7,7 +7,7 @@ author_profile: false
 
 ### Patents
 
-1. Nikhil Malhotra, Chandresh Kumar Maurya, and Anupama Ray, AN APPROACH FOR AUTOMATICALLY ADJUSTING DISPLAY SCREEN SETTING BASED ON MACHINE LEARNING (Filed), 
+1. Nikhil Malhotra, Chandresh Kumar Maurya, and Anupama Ray, **An Approach for Automatically Adjusting Display Screen Setting Based on Machine Learning**(Filed  with USPTO 2019).
 
 
 ### Book/Book Chapters 
