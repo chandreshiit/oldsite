@@ -102,7 +102,7 @@ author_profile: false
     <td class="tg-0pky">Sep 15</td>
     <td class="tg-0pky">parallel Interconnect networks: Switching and flow control </td> 
     <td class="tg-0pky">see slides</td>
-        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1gjxUm_GHV68ybguM0lOOW16pOYId_Qtg/view?usp=sharing">PDF</a> <a href=""> video</a> </td>   </tr>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1gjxUm_GHV68ybguM0lOOW16pOYId_Qtg/view?usp=sharing">PDF</a> <a href="https://drive.google.com/file/d/1gjxUm_GHV68ybguM0lOOW16pOYId_Qtg/view?usp=sharing"> video</a> </td>   </tr>
     <tr>
     <td class="tg-0pky">Sep 18</td>
     <td class="tg-0pky">Parallel Computational Complexity: Brent's/Amdhal's Law </td> 
