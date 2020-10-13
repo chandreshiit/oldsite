@@ -132,6 +132,16 @@ author_profile: false
         <td class="tg-0pky"> Message-passing basics</td>
     <td class="tg-0pky">see slides</td>
          <td class="tg-0pky"><a href="https://drive.google.com/file/d/1WdccssK1NZc9_y99U9H1GwI5ya1A4Cju/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/1p0HV31o_opx6G3FaxKKktRFC52bZszv-/view?usp=sharing">video</a></td>     </tr>
+     <tr>
+    <td class="tg-0pky">Oct 12</td>
+        <td class="tg-0pky"> Collective operations in MPI</td>
+    <td class="tg-0pky">see slides, MPI Tutorial</td>
+         <td class="tg-0pky"><a href="https://drive.google.com/file/d/1lwGHCik0OkIu79iUxivgwCGBdQb8Uiay/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/1ku4Kw26CiLOEgcnrzLoM5a2J3D4hgGXo/view?usp=sharing">video</a></td>     </tr>
+     <tr>
+    <td class="tg-0pky">Oct 13</td>
+        <td class="tg-0pky"> Decomposition techniques</td>
+    <td class="tg-0pky">see slides</td>
+         <td class="tg-0pky"><a href="https://drive.google.com/file/d/1deGD_AziCZSz1_aXMZkb2ll-eN43saYh/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/1KVdbnnpeeQhTzrLW0YfTn124PH-qD4rF/view?usp=sharing">video</a></td>     </tr>
 </table>
 
 #### Tutorials
