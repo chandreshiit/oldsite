@@ -142,6 +142,11 @@ author_profile: false
         <td class="tg-0pky"> Decomposition techniques</td>
     <td class="tg-0pky">see slides</td>
          <td class="tg-0pky"><a href="https://drive.google.com/file/d/1deGD_AziCZSz1_aXMZkb2ll-eN43saYh/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/1KVdbnnpeeQhTzrLW0YfTn124PH-qD4rF/view?usp=sharing">video</a></td>     </tr>
+      <tr>
+    <td class="tg-0pky">Oct 15</td>
+        <td class="tg-0pky"> Characteristics of tasks and interactions</td>
+    <td class="tg-0pky">see slides</td>
+         <td class="tg-0pky"><a href="https://drive.google.com/file/d/1mn6W2zT1OfmqK8N5R35xslueqzn319Q0/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/1kFzMQAPnfNOPCwt_xf6OWsKoQPDDn9md/view?usp=sharing">video</a></td>     </tr>
 </table>
 
 #### Tutorials
