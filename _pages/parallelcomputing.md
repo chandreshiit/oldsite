@@ -147,6 +147,11 @@ author_profile: false
         <td class="tg-0pky"> Characteristics of tasks and interactions</td>
     <td class="tg-0pky">see slides</td>
          <td class="tg-0pky"><a href="https://drive.google.com/file/d/1mn6W2zT1OfmqK8N5R35xslueqzn319Q0/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/1kFzMQAPnfNOPCwt_xf6OWsKoQPDDn9md/view?usp=sharing">video</a></td>     </tr>
+     <tr>
+    <td class="tg-0pky">Oct 20</td>
+        <td class="tg-0pky"> Mapping tasks to processes</td>
+    <td class="tg-0pky">see slides</td>
+         <td class="tg-0pky"><a href="https://drive.google.com/file/d/1mn6W2zT1OfmqK8N5R35xslueqzn319Q0/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/1gU4W3LgynMpCF-NNr9Y-kyGcOyvQc1lC/view?usp=sharing">video</a></td>     </tr>
 </table>
 
 #### Tutorials
@@ -194,6 +199,14 @@ author_profile: false
     <td class="tg-0pky">see slides</td>
        <td class="tg-0pky"> <a href=" https://drive.google.com/file/d/1hbK7Shb6T_tUE-xutiMfoq8rACs9bvB8/view?usp=sharing">PDF</a>
            <a href="https://drive.google.com/file/d/1cxyCvK1PEnETym4u2w69MVxNSRqxS9QN/view?usp=sharing">Video</a>      
+       </td> 
+  </tr>  
+     <tr>
+    <td class="tg-0pky">Oct 19</td>
+    <td class="tg-0pky">MPI point to point communication</td>
+    <td class="tg-0pky">see slides</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1QzMZAV3TbYgV3lIhJ3BmOFoOEs3cTaSE/view?usp=sharing">PDF</a>
+           <a href="https://drive.google.com/file/d/13bt57dZXQ-JPaD_FqWyI5zf2Odi_mYST/view?usp=sharing">Video</a>      
        </td> 
   </tr>  
 </table>
