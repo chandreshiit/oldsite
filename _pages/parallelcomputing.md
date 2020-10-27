@@ -152,6 +152,11 @@ author_profile: false
         <td class="tg-0pky"> Mapping tasks to processes</td>
     <td class="tg-0pky">see slides</td>
          <td class="tg-0pky"><a href="https://drive.google.com/file/d/1mn6W2zT1OfmqK8N5R35xslueqzn319Q0/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/1gU4W3LgynMpCF-NNr9Y-kyGcOyvQc1lC/view?usp=sharing">video</a></td>     </tr>
+     <tr>
+    <td class="tg-0pky">Oct 27</td>
+        <td class="tg-0pky"> Mapping tasks to processes</td>
+    <td class="tg-0pky">see slides</td>
+         <td class="tg-0pky"><a href="https://drive.google.com/file/d/1ZVHQ8uhACGz-zObeZzeowBslk_xFihPw/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/1qZsf9aPxs6JO2rFhgYvsMKMrJbdZlQax/view?usp=sharing">video</a></td>     </tr>
 </table>
 
 #### Tutorials
