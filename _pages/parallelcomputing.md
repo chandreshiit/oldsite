@@ -225,6 +225,14 @@ author_profile: false
            <a href="https://drive.google.com/file/d/13bt57dZXQ-JPaD_FqWyI5zf2Odi_mYST/view?usp=sharing">Video</a>      
        </td> 
   </tr>  
+     <tr>
+    <td class="tg-0pky">Oct 30</td>
+    <td class="tg-0pky">matrix vecotr multiplication using pthreads</td>
+    <td class="tg-0pky">see slides</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1iB1631aQmAfzLdjBzb-971zUJoQszTQc/view?usp=sharing">PDF</a>
+           <a href="https://drive.google.com/file/d/1WNbc-x7nryKunGkVVIuYiihuMFWuqjQn/view">Video</a>      
+       </td> 
+  </tr>  
 </table>
 
 
