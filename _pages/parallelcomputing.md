@@ -164,9 +164,10 @@ author_profile: false
          <td class="tg-0pky"><a href="https://drive.google.com/file/d/1GfVLetCsFR70S51-cOjAWQhyvI3124G4/view?usp=sharing">PDF</a>, <a href="https://drive.google.com/file/d/13qIskB4Y2aqmMO7L2pLZQqYrn_z3h7jB/view?usp=sharing">video</a></td>     </tr> 
     <tr>
     <td class="tg-0pky">Nov 2</td>
-        <td class="tg-0pky">Pracitcal use case of parallel programmig: distributed linear regression</td>
+        <td class="tg-0pky">Practical use case of parallel programmig: distributed linear regression</td>
     <td class="tg-0pky">video lecture only</td>
          <td class="tg-0pky"> <a href="    https://drive.google.com/file/d/150ex8eskSd3sKmeCloiDxTPnyDMpoA8c/view?usp=sharing">video, (no slides)</a></td>     </tr> 
+
 
 </table>
 
