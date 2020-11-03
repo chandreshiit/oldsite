@@ -167,9 +167,20 @@ author_profile: false
         <td class="tg-0pky">Practical use case of parallel programmig: distributed linear regression</td>
     <td class="tg-0pky">video lecture only</td>
          <td class="tg-0pky"> <a href="    https://drive.google.com/file/d/150ex8eskSd3sKmeCloiDxTPnyDMpoA8c/view?usp=sharing">video, (no slides)</a></td>     </tr> 
+     <tr>
+    <td class="tg-0pky">Nov 3</td>
+        <td class="tg-0pky">Introduction to openMP</td>
+    <td class="tg-0pky"> see video (slide will be uplaoded later) </td>
+         <td class="tg-0pky"> <a href="    https://drive.google.com/file/d/150ex8eskSd3sKmeCloiDxTPnyDMpoA8c/view?usp=sharing">video </a>, <a href="https://drive.google.com/file/d/1zw9KqI-5QeRPXAPGulym08JbGRDBr25h/view?usp=sharing">Hellp_openMP.c</a>, <a href="https://drive.google.com/file/d/1HLevLC0U7Wd609N8IX_Mvhvblu_vxY2Z/view?usp=sharing">serial_pi.c</a>
+         </td>     </tr>  </table>
 
 
-</table>
+
+
+
+
+
+
 
 
 
