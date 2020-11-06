@@ -183,7 +183,7 @@ author_profile: false
     <td class="tg-0pky">Nov 6</td>
         <td class="tg-0pky">Synchronization construct in openMP</td>
     <td class="tg-0pky"> see  slides (will be uploaded later) and video </td>
-         <td class="tg-0pky">  <a href="    https://drive.google.com/file/d/18qTcnWapn6oSbnEHPOXhOQZ8Gwmv8rKg/view?usp=sharing">video </a>
+         <td class="tg-0pky">  <a href="https://drive.google.com/file/d/18qTcnWapn6oSbnEHPOXhOQZ8Gwmv8rKg/view?usp=sharing">video </a>
           </td> </tr>
 </table>
 
