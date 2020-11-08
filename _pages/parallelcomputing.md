@@ -264,6 +264,15 @@ author_profile: false
            <a href="https://drive.google.com/file/d/1WNbc-x7nryKunGkVVIuYiihuMFWuqjQn/view">Video</a>      
        </td> 
   </tr>  
+     </tr>  
+     <tr>
+    <td class="tg-0pky">Nov 7</td>
+    <td class="tg-0pky">Examples of using openMP for solving problems</td>
+    <td class="tg-0pky">check code folder</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/10r9RIYA-tdVBYcdwNE409dFIMUvoGAG5/view?usp=sharing">code</a>
+           <a href="https://drive.google.com/file/d/11vezB1MxTbuda_f07y6F4P92tgV2alaj/view?usp=sharing">Video</a>      
+       </td> 
+  </tr>  
 </table>
 
 
