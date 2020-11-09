@@ -185,6 +185,12 @@ author_profile: false
     <td class="tg-0pky"> see  slides (will be uploaded later) and video </td>
          <td class="tg-0pky">  <a href="https://drive.google.com/file/d/18qTcnWapn6oSbnEHPOXhOQZ8Gwmv8rKg/view?usp=sharing">video </a>
           </td> </tr>
+     <tr>
+    <td class="tg-0pky">Nov 9</td>
+        <td class="tg-0pky">parallelizing for loops</td>
+    <td class="tg-0pky"> see  slides  and video </td>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1ADFQURFY01lhnBjILT8smnAzTSF2m1NE/view?usp=sharing">PDF</a>,  <a href="https://drive.google.com/file/d/1ov1aqZWFXShw--Kfu7D2-Q2brevkw3Kq/view?usp=sharing">video </a>
+          </td> </tr>
 </table>
 
 
