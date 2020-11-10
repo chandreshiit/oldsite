@@ -191,6 +191,13 @@ author_profile: false
     <td class="tg-0pky"> see  slides  and video </td>
         <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1ADFQURFY01lhnBjILT8smnAzTSF2m1NE/view?usp=sharing">PDF</a>,  <a href="https://drive.google.com/file/d/1ov1aqZWFXShw--Kfu7D2-Q2brevkw3Kq/view?usp=sharing">video </a>
           </td> </tr>
+     <tr>
+    <td class="tg-0pky">Nov 10</td>
+        <td class="tg-0pky">parallelizing for loops, nested loops, worksharing </td>
+    <td class="tg-0pky"> see  slides  and video </td>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1P-x8nHXF4PQNwnYDNdVZ1xg0siAD8F57/view?usp=sharing">PDF</a>,  <a href=" https://drive.google.com/file/d/1ylsovRgjT5XUt-Io-SE-ocYhDYGJMzm6/view?usp=sharing">video </a>
+          </td> </tr> 
+
 </table>
 
 
