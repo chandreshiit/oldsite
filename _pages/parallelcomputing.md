@@ -195,8 +195,16 @@ author_profile: false
     <td class="tg-0pky">Nov 10</td>
         <td class="tg-0pky">parallelizing for loops, nested loops, worksharing </td>
     <td class="tg-0pky"> see  slides  and video </td>
-        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1P-x8nHXF4PQNwnYDNdVZ1xg0siAD8F57/view?usp=sharing">PDF</a>,  <a href=" https://drive.google.com/file/d/1ylsovRgjT5XUt-Io-SE-ocYhDYGJMzm6/view?usp=sharing">video </a>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1P-x8nHXF4PQNwnYDNdVZ1xg0siAD8F57/view?usp=sharing">PDF</a>,  <a href=" https://drive.google.com/file/d/1ylsovRgjT5XUt-Io-SE-ocYhDYGJMzm6/view?usp=sharing">video </a>  </td> </tr>
+    <tr>
+    <td class="tg-0pky">Nov 12</td>
+        <td class="tg-0pky">runtime function, env variables, and data sharing clause </td>
+    <td class="tg-0pky"> see  slides  and video </td>
+        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1GcHe2_SjsqUYibiP9qIg0sZvZF_FjtIe/view?usp=sharing">PDF</a>,  <a href="https://drive.google.com/file/d/10_Qco4ZLGamGqROiNp2aUdEEn7VyGnAz/view?usp=sharing">video </a>
           </td> </tr> 
+
+
+
 
 </table>
 
@@ -284,6 +292,14 @@ author_profile: false
     <td class="tg-0pky">check code folder</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/10r9RIYA-tdVBYcdwNE409dFIMUvoGAG5/view?usp=sharing">code</a>
            <a href="https://drive.google.com/file/d/11vezB1MxTbuda_f07y6F4P92tgV2alaj/view?usp=sharing">Video</a>      
+       </td> 
+  </tr>  
+  <tr>
+    <td class="tg-0pky">Nov 13</td>
+    <td class="tg-0pky">Task in openMP</td>
+    <td class="tg-0pky">see slides and video</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/10r9RIYA-tdVBYcdwNE409dFIMUvoGAG5/view?usp=sharing">code</a>,  <a href="https://drive.google.com/file/d/18rAIXY5Ad7jiO0zrbwhROpqbUYFb4q43/view?usp=sharing">slide</a>,
+           <a href="https://drive.google.com/file/d/1As9D0uYVEDGcnzOSoCubH2qmqEbDpxVt/view?usp=sharing">Video</a>      
        </td> 
   </tr>  
 </table>
