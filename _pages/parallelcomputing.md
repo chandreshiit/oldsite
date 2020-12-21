@@ -201,26 +201,7 @@ author_profile: false
         <td class="tg-0pky">runtime function, env variables, and data sharing clause </td>
     <td class="tg-0pky"> see  slides  and video </td>
         <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1GcHe2_SjsqUYibiP9qIg0sZvZF_FjtIe/view?usp=sharing">PDF</a>,  <a href="https://drive.google.com/file/d/10_Qco4ZLGamGqROiNp2aUdEEn7VyGnAz/view?usp=sharing">video </a>
-          </td> </tr> 
-
-
-
-
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+          </td> </tr> </table>
 
 #### Tutorials
 
@@ -297,7 +278,7 @@ author_profile: false
   <tr>
     <td class="tg-0pky">Nov 13</td>
     <td class="tg-0pky">Task in openMP</td>
-    <td class="tg-0pky">see slides and video</td>
+    <td class="tg-0pky">see slides, code and video</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/10r9RIYA-tdVBYcdwNE409dFIMUvoGAG5/view?usp=sharing">code</a>,  <a href="https://drive.google.com/file/d/18rAIXY5Ad7jiO0zrbwhROpqbUYFb4q43/view?usp=sharing">slide</a>,
            <a href="https://drive.google.com/file/d/1As9D0uYVEDGcnzOSoCubH2qmqEbDpxVt/view?usp=sharing">Video</a>      
        </td> 
