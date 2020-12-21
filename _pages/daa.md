@@ -19,9 +19,11 @@ author_profile: false
   **Text Books:**
 
   1.  Cormen, Thomas H., et al. *Introduction to algorithms*. MIT press, 2009.
-    2. 
+        2. 
 
 #### Grading policy: As announced in the class  
+
+Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
 
 
 
@@ -41,11 +43,11 @@ author_profile: false
     <th class="tg-0pky">Slides/Papers/demo</th>
   </tr>
    <tr>
-    <td class="tg-0pky">Dec 20</td>
+    <td class="tg-0pky">Dec 21</td>
     <td class="tg-0pky">Introduction to Algorithms</td>
     <td class="tg-0pky">chapter 1</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1mQmMETK8-muS2TDJtn1xbxspshdc01_x/view?usp=sharing">PDF</a>
-       <a href=""> video</a>
+       <a href="https://drive.google.com/file/d/1WHp8Ih2hxN4K5UXM0CcvMul3tNSjuBbL/view?usp=sharing"> video</a>
        </td> 
   </tr>
    </table>
