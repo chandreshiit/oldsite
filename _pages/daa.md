@@ -25,8 +25,6 @@ author_profile: false
 
 Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
 
-
-
 #### Lecture Slides
 
 <style type="text/css">
@@ -48,6 +46,22 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
     <td class="tg-0pky">chapter 1</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1mQmMETK8-muS2TDJtn1xbxspshdc01_x/view?usp=sharing">PDF</a>
        <a href="https://drive.google.com/file/d/1WHp8Ih2hxN4K5UXM0CcvMul3tNSjuBbL/view?usp=sharing"> video</a>
+       </td> 
+  </tr>
+     <tr>
+    <td class="tg-0pky">Dec 22</td>
+    <td class="tg-0pky">Analysis of insertion sort</td>
+    <td class="tg-0pky">chapter 1</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1mQmMETK8-muS2TDJtn1xbxspshdc01_x/view?usp=sharing">PDF</a>
+       <a href="https://drive.google.com/file/d/18K6L5ut0jeZBvZ4zWNPZjfz_59n7ZZLM/view?usp=sharing">video</a>
+       </td> 
+  </tr>
+     <tr>
+    <td class="tg-0pky">Dec 23</td>
+    <td class="tg-0pky">Merge sort and it's analysis</td>
+    <td class="tg-0pky">chapter 1</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1mQmMETK8-muS2TDJtn1xbxspshdc01_x/view?usp=sharing">PDF</a>
+       <a href=" https://drive.google.com/file/d/15HJsEpK_1bvGAXFPXUUufvDn5CniY4-p/view?usp=sharing">video</a>
        </td> 
   </tr>
    </table>
