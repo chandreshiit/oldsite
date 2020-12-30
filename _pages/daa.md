@@ -69,7 +69,7 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
     <td class="tg-0pky">recurrence relation, substition </td>
     <td class="tg-0pky">chapter 4</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1yZfQpwqtxtu2vWtyCYypDHd-JB4VZYnF/view?usp=sharing">PDF</a>
-       <a href=" https://drive.google.com/file/d/1DxQmGy8qflN19ujSjMrO543SZUfaXI2R/view?usp=sharing">video</a>
+       <a href="https://drive.google.com/file/d/1DxQmGy8qflN19ujSjMrO543SZUfaXI2R/view?usp=sharing">video</a>
        </td> 
   </tr>
      <tr>
@@ -78,6 +78,14 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
     <td class="tg-0pky">chapter 4</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1yZfQpwqtxtu2vWtyCYypDHd-JB4VZYnF/view?usp=sharing">PDF</a>
        <a href=" https://drive.google.com/file/d/1Kefj2QrkgoUWWB5lpWBy0nE2EFy6fWbp/view?usp=sharing">video</a>
+       </td> 
+  </tr>
+     <tr>
+    <td class="tg-0pky">Dec 30</td>
+    <td class="tg-0pky"> master's method</td>
+    <td class="tg-0pky">chapter 4</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1yZfQpwqtxtu2vWtyCYypDHd-JB4VZYnF/view?usp=sharing">PDF</a>
+       <a href="https://drive.google.com/file/d/1RQhxnCCx5vxucq4_OJloqUesW-USu6C-/view?usp=sharing">video</a>
        </td> 
   </tr>
    </table>
