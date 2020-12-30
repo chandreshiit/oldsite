@@ -14,7 +14,7 @@ author_profile: false
 >
 >**Meeting hours: 2:00-3:00  PM**  
 >
->**TA			:   **
+>**TA			:   Anil and Neelesh, MS @ IIT Indore**
 
   **Text Books:**
 
