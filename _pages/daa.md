@@ -88,6 +88,22 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
        <a href="https://drive.google.com/file/d/1RQhxnCCx5vxucq4_OJloqUesW-USu6C-/view?usp=sharing">video</a>
        </td> 
   </tr>
+      <tr>
+    <td class="tg-0pky">JAn 4</td>
+    <td class="tg-0pky"> master's method examples</td>
+    <td class="tg-0pky">chapter 4</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1yZfQpwqtxtu2vWtyCYypDHd-JB4VZYnF/view?usp=sharing">PDF</a>
+       <a href="https://drive.google.com/file/d/1T_lK_NfS3ssFkSdPkGJUvos4AiXJfaNc/view?usp=sharing">video</a>
+       </td> 
+  </tr>
+       <tr>
+    <td class="tg-0pky">JAn 4</td>
+    <td class="tg-0pky"> master's method proof, Akra Bazzi's method</td>
+    <td class="tg-0pky">chapter 4</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1yZfQpwqtxtu2vWtyCYypDHd-JB4VZYnF/view?usp=sharing">PDF</a>
+       <a href="https://drive.google.com/file/d/15ExhSgqAlURGgS6_EkLPGJJ8uz6mUL2y/view?usp=sharing">video</a>
+       </td> 
+  </tr>
    </table>
 
 #### Tutorials
