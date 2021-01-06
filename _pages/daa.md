@@ -89,7 +89,7 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
        </td> 
   </tr>
       <tr>
-    <td class="tg-0pky">JAn 4</td>
+    <td class="tg-0pky">Jan 4</td>
     <td class="tg-0pky"> master's method examples</td>
     <td class="tg-0pky">chapter 4</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1yZfQpwqtxtu2vWtyCYypDHd-JB4VZYnF/view?usp=sharing">PDF</a>
@@ -97,11 +97,19 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
        </td> 
   </tr>
        <tr>
-    <td class="tg-0pky">JAn 4</td>
+    <td class="tg-0pky">Jan 4</td>
     <td class="tg-0pky"> master's method proof, Akra Bazzi's method</td>
     <td class="tg-0pky">chapter 4</td>
-       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1yZfQpwqtxtu2vWtyCYypDHd-JB4VZYnF/view?usp=sharing">PDF</a>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/126Qlxz97plg4UcBX6yXKS1-9aeZbus6j/view?usp=sharing">PDF</a>
        <a href="https://drive.google.com/file/d/15ExhSgqAlURGgS6_EkLPGJJ8uz6mUL2y/view?usp=sharing">video</a>
+       </td> 
+  </tr>
+        <tr>
+    <td class="tg-0pky">Jan 6</td>
+    <td class="tg-0pky">divide and conquer </td>
+    <td class="tg-0pky">chapter 4</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/126Qlxz97plg4UcBX6yXKS1-9aeZbus6j/view?usp=sharing">PDF</a>
+       <a href="https://drive.google.com/file/d/1UD6lnv45f6EDCbJX_nCm-RkREs2U2jHL/view?usp=sharing">video</a>
        </td> 
   </tr>
    </table>
@@ -127,6 +135,14 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
     <td class="tg-0pky">chapter 3</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1mQmMETK8-muS2TDJtn1xbxspshdc01_x/view?usp=sharing">PDF</a>
        <a href="https://drive.google.com/file/d/1vyY2t8O2sGQUZ4qJt7aTzLBvqLnnvizn/view?usp=sharing"> video</a>
+       </td> 
+  </tr>
+     <tr>
+    <td class="tg-0pky">Dec 28</td>
+    <td class="tg-0pky">recurrence relations</td>
+    <td class="tg-0pky">chapter 3</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/18tT3SQXPssOKzhTvmAxo9j_sQH4LZ-dO/view?usp=sharing">PDF</a>
+       <a href="https://drive.google.com/file/d/1rfEJIfc5kCYwIdQRkpUxD5fOQGuQUGq_/view?usp=sharing"> video</a>
        </td> 
   </tr>
 </table>
