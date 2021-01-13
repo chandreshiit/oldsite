@@ -121,6 +121,14 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
        <a href="https://drive.google.com/file/d/1sECt0wRvNxpCacvcZDITuJfEX7qQR8LQ/view?usp=sharing">video</a>
        </td> 
   </tr>
+     <tr>
+    <td class="tg-0pky">Jan 13</td>
+    <td class="tg-0pky">randomized  quick sort</td>
+    <td class="tg-0pky">chapter 7</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/15Z40cmoV_pUY3Zx_mXBywPtLJi0zEfvM/view?usp=sharing">PDF</a>
+       <a href="https://drive.google.com/file/d/1CIjAzILPLpaBXGp2gOQ8TnVVczqaZf3x/view?usp=sharing">video</a>
+       </td> 
+  </tr>
    </table>
 
 #### Tutorials
