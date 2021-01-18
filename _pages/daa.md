@@ -129,6 +129,14 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
        <a href="https://drive.google.com/file/d/1CIjAzILPLpaBXGp2gOQ8TnVVczqaZf3x/view?usp=sharing">video</a>
        </td> 
   </tr>
+     <tr>
+    <td class="tg-0pky">Jan 18</td>
+    <td class="tg-0pky">heaps</td>
+    <td class="tg-0pky">chapter 6</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1PUzkOYuhQWuqeQRIk3YdABgtLCuL4UbK/view?usp=sharing">PDF</a>
+       <a href="https://drive.google.com/file/d/17fiRFkcN93Yxy_W7N0U_SKMTNZGQ79rC/view?usp=sharing">video</a>
+       </td> 
+  </tr>
    </table>
 
 #### Tutorials
@@ -169,6 +177,15 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
     <td class="tg-0pky">chapter 4</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1QeWVliUGGdW_qDEdTb1nionQg3-M6Yas/view?usp=sharing">PDF</a>
        <a href="https://drive.google.com/file/d/1rfEJIfc5kCYwIdQRkpUxD5fOQGuQUGq_/view?usp=sharing"> video</a>
+       </td> 
+  </tr>
+ </tr>
+     <tr>
+    <td class="tg-0pky">Jan 14</td>
+    <td class="tg-0pky">median of 3</td>
+    <td class="tg-0pky">chapter 4</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1LZt3dSiVS39lttdLRJI-UbXhzbjqgF4A/view?usp=sharing">PDF</a>
+       <a href="https://drive.google.com/file/d/1-4Vog3EKz-0lm163mDHuVOOOBHK96wmV/view?usp=sharing"> video</a>
        </td> 
   </tr>
 </table>
