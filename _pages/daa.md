@@ -137,6 +137,14 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
        <a href="https://drive.google.com/file/d/17fiRFkcN93Yxy_W7N0U_SKMTNZGQ79rC/view?usp=sharing">video</a>
        </td> 
   </tr>
+     <tr>
+    <td class="tg-0pky">Jan 20</td>
+    <td class="tg-0pky">sorting in linear time, decision tress, count sort</td>
+    <td class="tg-0pky">chapter 8</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1hBTjI8xkJSmmOIClwVymLssRvCKUcn8_/view?usp=sharing">PDF</a>
+       <a href="https://drive.google.com/file/d/1BzEwfP5NYxg0bSbmLOqxGHLZosG9V6Rt/view?usp=sharing">video</a>
+       </td> 
+  </tr>
    </table>
 
 #### Tutorials
