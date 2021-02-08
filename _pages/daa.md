@@ -153,6 +153,15 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
        <a href="https://drive.google.com/file/d/1Y9NyxJRWUvyfDZgOIgLoSsEjr7JIJipr/view?usp=sharing">video</a>
        </td> 
   </tr>
+     <tr>
+    <td class="tg-0pky">Feb 8</td>
+    <td class="tg-0pky">Dynamic programmming</td>
+    <td class="tg-0pky">chapter 15</td>
+       <td class="tg-0pky"> <a href="">slides will be uploaded later</a>
+       <a href=" https://drive.google.com/file/d/18GWeABisdi8u4ZIVQKl-eUnOqBXVwrgt/view?usp=sharing">video</a>
+       </td> 
+  </tr>    
+   
    </table>
 
 #### Tutorials
