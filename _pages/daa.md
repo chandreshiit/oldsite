@@ -160,6 +160,16 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
        <td class="tg-0pky"> <a href="">slides will be uploaded later</a>
        <a href=" https://drive.google.com/file/d/18GWeABisdi8u4ZIVQKl-eUnOqBXVwrgt/view?usp=sharing">video</a>
        </td> 
+  </tr> 
+    /tr>
+     <tr>
+    <td class="tg-0pky">Feb 10</td>
+    <td class="tg-0pky">Dynamic programmming: matrix chain, LCS</td>
+    <td class="tg-0pky">chapter 15</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1ClE6J81jsxQUMEOlqP7958oCbvd0lmvJ/view?usp=sharing">pdf</a>
+       <a href=" https://drive.google.com/file/d/1rkZoSX1jFuRIIvlOHFuxGzWsNJ6CbvD6/view?usp=sharing">video</a>
+            <a href="https://drive.google.com/file/d/1hJZsmHBL2N74awNyPr5vwETNO1ghFUEC/view?usp=sharing">video</a>
+       </td> 
   </tr>    
    
    </table>
