@@ -161,8 +161,7 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
        <a href=" https://drive.google.com/file/d/18GWeABisdi8u4ZIVQKl-eUnOqBXVwrgt/view?usp=sharing">video</a>
        </td> 
   </tr> 
-    /tr>
-     <tr>
+      <tr>
     <td class="tg-0pky">Feb 10</td>
     <td class="tg-0pky">Dynamic programmming: matrix chain, LCS</td>
     <td class="tg-0pky">chapter 15</td>
@@ -170,9 +169,19 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
        <a href=" https://drive.google.com/file/d/1rkZoSX1jFuRIIvlOHFuxGzWsNJ6CbvD6/view?usp=sharing">video</a>
             <a href="https://drive.google.com/file/d/1hJZsmHBL2N74awNyPr5vwETNO1ghFUEC/view?usp=sharing">video</a>
        </td> 
-  </tr>    
-   
+  </tr>  
+      <tr>
+    <td class="tg-0pky">Feb 10</td>
+    <td class="tg-0pky">Greedy methods</td>
+    <td class="tg-0pky">chapter 16</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1BqPjtqJZP9sIpEH1Up7tMx1b3glcpTov/view?usp=sharing">pdf</a>
+       <a href=" https://drive.google.com/file/d/1rkZoSX1jFuRIIvlOHFuxGzWsNJ6CbvD6/view?usp=sharing">video</a>          
+       </td> 
+    </tr>
    </table>
+
+
+
 
 #### Tutorials
 
