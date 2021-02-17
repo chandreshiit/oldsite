@@ -171,11 +171,27 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
        </td> 
   </tr>  
       <tr>
-    <td class="tg-0pky">Feb 10</td>
+    <td class="tg-0pky">Feb 15</td>
     <td class="tg-0pky">Greedy methods</td>
     <td class="tg-0pky">chapter 16</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1BqPjtqJZP9sIpEH1Up7tMx1b3glcpTov/view?usp=sharing">pdf</a>
        <a href=" https://drive.google.com/file/d/1rkZoSX1jFuRIIvlOHFuxGzWsNJ6CbvD6/view?usp=sharing">video</a>          
+       </td> 
+    </tr>
+     <tr>
+    <td class="tg-0pky">Feb 17</td>
+    <td class="tg-0pky">0/1 knapsack using DP</td>
+    <td class="tg-0pky">chapter 16</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1HhubX8VW9WMLMk0LdasuAYwVXtIWjn3g/view?usp=sharing">pdf</a>
+       <a href="https://drive.google.com/file/d/1lX--AlYglk7OSpvYknk5Qkv35TH0jf-y/view?usp=sharing">video</a>          
+       </td> 
+    </tr>
+     <tr>
+    <td class="tg-0pky">Feb 17</td>
+    <td class="tg-0pky">branch and bound</td></td>
+    <td class="tg-0pky">See the scribes and video</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1HhubX8VW9WMLMk0LdasuAYwVXtIWjn3g/view?usp=sharing">pdf</a>
+       <a href="https://drive.google.com/file/d/1Ki90ooGB1tD5hTNKq6TF3oBlIk1tBBl-/view?usp=sharing">video</a>          
        </td> 
     </tr>
    </table>
@@ -229,6 +245,15 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
     <td class="tg-0pky">median of 3</td>
     <td class="tg-0pky">chapter 4</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1LZt3dSiVS39lttdLRJI-UbXhzbjqgF4A/view?usp=sharing">PDF</a>
+       <a href="https://drive.google.com/file/d/1-4Vog3EKz-0lm163mDHuVOOOBHK96wmV/view?usp=sharing"> video</a>
+       </td> 
+  </tr>
+/tr>
+     <tr>
+    <td class="tg-0pky">Feb 11</td>
+    <td class="tg-0pky">DP</td>
+    <td class="tg-0pky">chapter 16</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1nmPChETPzRWKWGa3WrYd6LNoKa1EPac1/view?usp=sharing">PDF</a>
        <a href="https://drive.google.com/file/d/1-4Vog3EKz-0lm163mDHuVOOOBHK96wmV/view?usp=sharing"> video</a>
        </td> 
   </tr>
