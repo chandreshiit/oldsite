@@ -190,7 +190,7 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
     <td class="tg-0pky">Feb 17</td>
     <td class="tg-0pky">branch and bound</td></td>
     <td class="tg-0pky">See the scribes and video</td>
-       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1HhubX8VW9WMLMk0LdasuAYwVXtIWjn3g/view?usp=sharing">pdf</a>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1n0S21tAo7k4WEZhq_Y5TS5VtTCbm7SUF/view?usp=sharing">pdf</a>
        <a href="https://drive.google.com/file/d/1Ki90ooGB1tD5hTNKq6TF3oBlIk1tBBl-/view?usp=sharing">video</a>          
        </td> 
     </tr>
