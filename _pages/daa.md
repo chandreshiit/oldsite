@@ -194,6 +194,15 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
        <a href="https://drive.google.com/file/d/1Ki90ooGB1tD5hTNKq6TF3oBlIk1tBBl-/view?usp=sharing">video</a>          
        </td> 
     </tr>
+ <tr>
+    <td class="tg-0pky">Feb 22</td>
+    <td class="tg-0pky">branch and bound for 0/1 knapsack, bactracking and graphs (MST) </td></td>
+    <td class="tg-0pky">See the scribes and video</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1urARYCOiA82gtNABRqRG_iqmEl1jhVWh/view?usp=sharing">pdf</a>
+            <a href="https://drive.google.com/file/d/12FyK1vdJb2Pk-KmTkZyfmRBNPp9cT8te/view?usp=sharing">pdf</a>
+       <a href="https://drive.google.com/file/d/1cdWW9_EAc6UeZPISWc9qEraZjQKS2LV7/view?usp=sharing">video</a>          
+       </td> 
+    </tr>
    </table>
 
 
@@ -248,13 +257,12 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
        <a href="https://drive.google.com/file/d/1-4Vog3EKz-0lm163mDHuVOOOBHK96wmV/view?usp=sharing"> video</a>
        </td> 
   </tr>
-/tr>
      <tr>
     <td class="tg-0pky">Feb 11</td>
     <td class="tg-0pky">DP</td>
     <td class="tg-0pky">chapter 16</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1nmPChETPzRWKWGa3WrYd6LNoKa1EPac1/view?usp=sharing">PDF</a>
-       <a href="https://drive.google.com/file/d/1-4Vog3EKz-0lm163mDHuVOOOBHK96wmV/view?usp=sharing"> video</a>
+       <a href="https://drive.google.com/file/d/1OS8nlOoc7rTdlfwX9OTZDS47MfN0ZoM2/view?usp=sharing"> video</a>
        </td> 
   </tr>
 </table>
