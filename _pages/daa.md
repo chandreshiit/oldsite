@@ -175,7 +175,7 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
     <td class="tg-0pky">Greedy methods</td>
     <td class="tg-0pky">chapter 16</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1BqPjtqJZP9sIpEH1Up7tMx1b3glcpTov/view?usp=sharing">pdf</a>
-       <a href=" https://drive.google.com/file/d/1rkZoSX1jFuRIIvlOHFuxGzWsNJ6CbvD6/view?usp=sharing">video</a>          
+       <a href="https://drive.google.com/file/d/1C8z_PyJWBddl6TVvjRvX74vRQMO58pZQ/view?usp=sharing">video</a>          
        </td> 
     </tr>
      <tr>
