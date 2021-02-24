@@ -203,6 +203,22 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
        <a href="https://drive.google.com/file/d/1cdWW9_EAc6UeZPISWc9qEraZjQKS2LV7/view?usp=sharing">video</a>          
        </td> 
     </tr>
+<tr>
+    <td class="tg-0pky">Feb 24</td>
+    <td class="tg-0pky">MST, Kruskal's algo </td></td>
+    <td class="tg-0pky">See the scribes and video</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1pzCbdE-N7R8W-dbHud0MydFGWGjQOUPL/view?usp=sharing">pdf</a>
+          <a href="https://drive.google.com/file/d/1R6lGUzTBA9fltqMaepi4YYOUHDwePeDN/view?usp=sharing">video</a>          
+       </td> 
+    </tr>
+<tr>
+    <td class="tg-0pky">Feb 24</td>
+    <td class="tg-0pky">Shortest path, Dijkastra's and Bellman-ford </td></td>
+    <td class="tg-0pky">See the scribes and video</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1pzCbdE-N7R8W-dbHud0MydFGWGjQOUPL/view?usp=sharing">pdf</a>
+          <a href="https://drive.google.com/file/d/1831ZNVtvk91rB2SPsSU6iSf8PmKgqGMc/view?usp=sharing">video</a>          
+       </td> 
+    </tr>
    </table>
 
 
