@@ -221,6 +221,15 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
           <a href="https://drive.google.com/file/d/1831ZNVtvk91rB2SPsSU6iSf8PmKgqGMc/view?usp=sharing">video</a>          
        </td> 
     </tr>
+<tr>
+    <td class="tg-0pky">March 1</td>
+    <td class="tg-0pky">Hashing </td></td>
+    <td class="tg-0pky">See the scribes and video</td>
+      <a href="https://drive.google.com/file/d/1cxzCoh9uryXzT0MUxZJexcwT4xi9sOH7/view?usp=sharing">pdf</a>
+<a href="https://drive.google.com/file/d/1hElvDDTLRsRfV4kSLfagVA2yqiaIyjTq/view?usp=sharing">pdf</a>
+          <a href="https://drive.google.com/file/d/1NQr9p4CSOCyzJxu1HMwS2LptZCHrEmuM/view?usp=sharing">video</a>          
+       </td> 
+    </tr>
    </table>
 
 
@@ -281,6 +290,14 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
     <td class="tg-0pky">chapter 16</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1nmPChETPzRWKWGa3WrYd6LNoKa1EPac1/view?usp=sharing">PDF</a>
        <a href="https://drive.google.com/file/d/1OS8nlOoc7rTdlfwX9OTZDS47MfN0ZoM2/view?usp=sharing"> video</a>
+       </td> 
+  </tr>
+<tr>
+    <td class="tg-0pky">Feb 25</td>
+    <td class="tg-0pky">graph and subset-sum</td>
+    <td class="tg-0pky">see the slides and videos</td>
+       <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1hVeVyj_uqpkKf6ccTp9ZVRfNLGPdKEX3/view?usp=sharing">PDF</a>
+       <a href="https://drive.google.com/file/d/1B91izXrMt7WSkhBu3zfdJ-p15iGN0IAg/view?usp=sharing"> video</a>
        </td> 
   </tr>
 </table>
