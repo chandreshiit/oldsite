@@ -188,7 +188,7 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
     </tr>
      <tr>
     <td class="tg-0pky">Feb 17</td>
-    <td class="tg-0pky">branch and bound</td></td>
+    <td class="tg-0pky">branch and bound</td>
     <td class="tg-0pky">See the scribes and video</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1n0S21tAo7k4WEZhq_Y5TS5VtTCbm7SUF/view?usp=sharing">pdf</a>
        <a href="https://drive.google.com/file/d/1Ki90ooGB1tD5hTNKq6TF3oBlIk1tBBl-/view?usp=sharing">video</a>          
@@ -196,7 +196,7 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
     </tr>
  <tr>
     <td class="tg-0pky">Feb 22</td>
-    <td class="tg-0pky">branch and bound for 0/1 knapsack, bactracking and graphs (MST) </td></td>
+    <td class="tg-0pky">branch and bound for 0/1 knapsack, bactracking and graphs (MST) </td>
     <td class="tg-0pky">See the scribes and video</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1urARYCOiA82gtNABRqRG_iqmEl1jhVWh/view?usp=sharing">pdf</a>
             <a href="https://drive.google.com/file/d/12FyK1vdJb2Pk-KmTkZyfmRBNPp9cT8te/view?usp=sharing">pdf</a>
@@ -205,7 +205,7 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
     </tr>
 <tr>
     <td class="tg-0pky">Feb 24</td>
-    <td class="tg-0pky">MST, Kruskal's algo </td></td>
+    <td class="tg-0pky">MST, Kruskal's algo </td>
     <td class="tg-0pky">See the scribes and video</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1pzCbdE-N7R8W-dbHud0MydFGWGjQOUPL/view?usp=sharing">pdf</a>
             <a href="https://drive.google.com/file/d/1pb_9H6wdn4B-nOWKnkL-UMPyPk0rybD5/view?usp=sharing">pdf</a>
@@ -223,7 +223,7 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
     </tr>
 <tr>
     <td class="tg-0pky">March 1</td>
-    <td class="tg-0pky">Hashing </td></td>
+    <td class="tg-0pky">Hashing </td>
     <td class="tg-0pky">Chapter 11</td>
      <td class="tg-0pky">  <a href="https://drive.google.com/file/d/1cxzCoh9uryXzT0MUxZJexcwT4xi9sOH7/view?usp=sharing">pdf</a>
 <a href="https://drive.google.com/file/d/1hElvDDTLRsRfV4kSLfagVA2yqiaIyjTq/view?usp=sharing">pdf</a>
