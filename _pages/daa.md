@@ -214,7 +214,7 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
     </tr>
 <tr>
     <td class="tg-0pky">Feb 24</td>
-    <td class="tg-0pky">Shortest path, Dijkastra's and Bellman-ford </td></td>
+    <td class="tg-0pky">Shortest path, Dijkastra's and Bellman-ford </td>
     <td class="tg-0pky">See the scribes and video</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1pzCbdE-N7R8W-dbHud0MydFGWGjQOUPL/view?usp=sharing">pdf</a>
            <a href="https://drive.google.com/file/d/1AffftW_YYLOZOCfbi5XgDkgqyi3rkzIF/view?usp=sharing">pdf</a>
@@ -224,8 +224,8 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
 <tr>
     <td class="tg-0pky">March 1</td>
     <td class="tg-0pky">Hashing </td></td>
-    <td class="tg-0pky">See the scribes and video</td>
-      <a href="https://drive.google.com/file/d/1cxzCoh9uryXzT0MUxZJexcwT4xi9sOH7/view?usp=sharing">pdf</a>
+    <td class="tg-0pky">Chapter 11</td>
+     <td class="tg-0pky">  <a href="https://drive.google.com/file/d/1cxzCoh9uryXzT0MUxZJexcwT4xi9sOH7/view?usp=sharing">pdf</a>
 <a href="https://drive.google.com/file/d/1hElvDDTLRsRfV4kSLfagVA2yqiaIyjTq/view?usp=sharing">pdf</a>
           <a href="https://drive.google.com/file/d/1NQr9p4CSOCyzJxu1HMwS2LptZCHrEmuM/view?usp=sharing">video</a>          
        </td> 
