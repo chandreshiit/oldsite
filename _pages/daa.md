@@ -230,6 +230,14 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
           <a href="https://drive.google.com/file/d/1NQr9p4CSOCyzJxu1HMwS2LptZCHrEmuM/view?usp=sharing">video</a>          
        </td> 
     </tr>
+    <tr>
+    <td class="tg-0pky">March 3</td>
+    <td class="tg-0pky">All pair shortest path </td>
+    <td class="tg-0pky">see the video</td>
+     <td class="tg-0pky"> 
+          <a href="https://drive.google.com/file/d/1XNFST_A79hgHqqp_yBi-hECdpRadwBrp/view?usp=sharing">video</a>          
+       </td> 
+    </tr>
    </table>
 
 
@@ -298,6 +306,15 @@ Mid-sem (30%), End-sem (40%), assignment (10%), projects (20%)
     <td class="tg-0pky">see the slides and videos</td>
        <td class="tg-0pky"> <a href="https://drive.google.com/file/d/1hVeVyj_uqpkKf6ccTp9ZVRfNLGPdKEX3/view?usp=sharing">PDF</a>
        <a href="https://drive.google.com/file/d/1B91izXrMt7WSkhBu3zfdJ-p15iGN0IAg/view?usp=sharing"> video</a>
+       </td> 
+  </tr>
+<tr>
+    <td class="tg-0pky">March 4</td>
+    <td class="tg-0pky">Red-black tree</td>
+    <td class="tg-0pky">see the slides and videos</td>
+       <td class="tg-0pky"> 
+       <a href="https://drive.google.com/file/d/1YLSJMo5UsvRWVhJPT2eOWM5VJBRR5Iox/view?usp=sharing"> video</a>
+             <a href="https://drive.google.com/file/d/1tl0GlKEaSS7_Ibh8hNpi-hteHanojJMB/view?usp=sharing"> video</a>
        </td> 
   </tr>
 </table>
