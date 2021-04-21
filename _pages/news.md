@@ -17,6 +17,7 @@ author_profile: false
 
 
 
+* Invited as program committee(PC) member for ECML-PKDD-2021 (applied data science track)
 * Invited as program committee(PC) member for AAAI-2021.
 * Invited as a reviewer for IEEE Transaction on Artificial Intelligence
 * Invited as a reviewer for IEEE Computational Intelligence Magazine
