@@ -1,0 +1,432 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.16.6 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Beam search decoding in 5 mins - Chandresh Kumar Maurya</title>
+<meta name="description" content="Beam Search">
+
+
+  <meta name="author" content="Chandresh Kumar Maurya">
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Chandresh Kumar Maurya">
+<meta property="og:title" content="Beam search decoding in 5 mins">
+<meta property="og:url" content="http://localhost:4000/BeamSearch/">
+
+
+  <meta property="og:description" content="Beam Search">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2019-12-11T00:00:00+05:30">
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/BeamSearch/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Chandresh Kumar Maurya",
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Chandresh Kumar Maurya Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if IE ]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Chandresh Kumar Maurya
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/" >About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/news/" >News</a>
+            </li><li class="masthead__menu-item">
+              <a href="/teaching/" >Teaching</a>
+            </li><li class="masthead__menu-item">
+              <a href="/research/" >Research</a>
+            </li><li class="masthead__menu-item">
+              <a href="/projects/" >Projects</a>
+            </li><li class="masthead__menu-item">
+              <a href="/useful/" >Useful tips</a>
+            </li><li class="masthead__menu-item">
+              <a href="/talk/" >Talks</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Beam search decoding in 5 mins">
+    <meta itemprop="description" content="Beam Search">
+    <meta itemprop="datePublished" content="December 11, 2019">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Beam search decoding in 5 mins
+</h1>
+          
+            <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  1 minute read
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <h3 id="beam-search">Beam Search</h3>
+
+<p>Over the years, beam search has become one of the most popular technique for decoding a sequence at test time. Most of the deep learning papers using sequence models use beam search to find alternative translations, part-of-speech tags, named-entities etc. In the post, I am going to cover beam search.</p>
+
+<p>Beam search is one of the many techniques for searching a graph such as <em>breadth-first-search, depth-first-search, best-first-search, hill-climbing</em> . You can think of it as a constrained version of the bread-first search where we explore only <em>k</em> best neighbours of the current node. Here , <em>k</em> is called <strong>Beam Width</strong>. The discussion here follows in terms of label prediction in the sequence models though it can be applied to other domains without loss of generality.</p>
+
+<p>Imagine that you got the following output from one of your LSTM cell.</p>
+
+<pre><code class="language-Markdown">$$
+\[\begin{bmatrix}
+1&amp;2&amp;3\\
+2&amp;1&amp;3\\
+3&amp;1&amp;2\\
+\end{bmatrix}\]
+$$
+</code></pre>
+
+<p>You can read about beam search <a href="http://www.qinuu.com/2019/04/23/3-sequence-models-attention-mechanism/">here</a> and <a href="https://machinelearningmastery.com/beam-search-decoder-natural-language-processing/#comment-514613">here</a>. What I will give you the code.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">tensorflow</span> <span class="k">as</span> <span class="n">tf</span><span class="p">,</span> <span class="n">numpy</span> <span class="k">as</span> <span class="n">np</span>
+<span class="k">def</span> <span class="nf">beam_search_decoder</span><span class="p">(</span><span class="n">data</span><span class="p">,</span> <span class="n">k</span><span class="p">):</span>
+    <span class="c1"># first convert logits to probabilites so that all numbers are +ve
+</span>    <span class="n">data</span>  <span class="o">=</span> <span class="n">tf</span><span class="p">.</span><span class="n">nn</span><span class="p">.</span><span class="n">softmax</span><span class="p">(</span><span class="n">data</span><span class="p">)</span>
+    <span class="n">sequences</span> <span class="o">=</span> <span class="p">[[</span><span class="nb">list</span><span class="p">(),</span> <span class="mf">0.0</span><span class="p">]]</span>
+    <span class="c1"># walk over each step in sequence
+</span>    <span class="k">for</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">data</span><span class="p">:</span>
+        <span class="n">all_candidates</span> <span class="o">=</span> <span class="nb">list</span><span class="p">()</span>
+        <span class="c1"># expand each current candidate
+</span>        <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">sequences</span><span class="p">)):</span>
+            <span class="n">seq</span><span class="p">,</span> <span class="n">score</span> <span class="o">=</span> <span class="n">sequences</span><span class="p">[</span><span class="n">i</span><span class="p">]</span>
+<span class="c1">#             for j in range(len(row)): # instead of exploring all the labels, explore only k best at the current time
+</span>            <span class="c1"># select k best
+</span>            <span class="n">best_k</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">argsort</span><span class="p">(</span><span class="n">row</span><span class="p">)[</span><span class="o">-</span><span class="n">k</span><span class="p">:]</span>
+            <span class="c1"># explore k best
+</span>            <span class="k">for</span> <span class="n">j</span> <span class="ow">in</span> <span class="n">best_k</span><span class="p">:</span>
+                <span class="n">candidate</span> <span class="o">=</span> <span class="p">[</span><span class="n">seq</span> <span class="o">+</span> <span class="p">[</span><span class="n">j</span><span class="p">],</span> <span class="n">score</span> <span class="o">+</span> <span class="n">tf</span><span class="p">.</span><span class="n">math</span><span class="p">.</span><span class="n">log</span><span class="p">(</span><span class="n">row</span><span class="p">[</span><span class="n">j</span><span class="p">])]</span>
+                <span class="n">all_candidates</span><span class="p">.</span><span class="n">append</span><span class="p">(</span><span class="n">candidate</span><span class="p">)</span>
+        <span class="c1"># order all candidates by score
+</span>        <span class="n">ordered</span> <span class="o">=</span> <span class="nb">sorted</span><span class="p">(</span><span class="n">all_candidates</span><span class="p">,</span> <span class="n">key</span><span class="o">=</span><span class="k">lambda</span> <span class="n">tup</span><span class="p">:</span><span class="n">tup</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span> <span class="n">reverse</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+        <span class="c1"># select k best
+</span>        <span class="n">sequences</span> <span class="o">=</span> <span class="n">ordered</span><span class="p">[:</span><span class="n">k</span><span class="p">]</span>
+    <span class="k">return</span> <span class="n">sequences</span>
+</code></pre></div></div>
+
+<p>Above code expects that your data is just logits coming from the output of RNN/LSTM. It will compute the softmax first. Then, at each step, it iteratively expands each node and choosing the best K before expending.  If you call the above function on the sample data, you get the below output.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">data</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">array</span><span class="p">([[</span><span class="mf">1.</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">],[</span><span class="mi">2</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">3</span><span class="p">],[</span><span class="mi">3</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">]])</span>
+<span class="n">seq</span> <span class="o">=</span> <span class="n">beam_search_decoder</span><span class="p">(</span><span class="n">data</span><span class="p">,</span> <span class="n">k</span><span class="o">=</span><span class="mi">3</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="n">seq</span><span class="p">)</span>
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt;[[[2, 2, 0], &lt;tf.Tensor: id=10511, shape=(), dtype=float64, numpy=-1.2228178933331413&gt;], [[2, 2, 2], &lt;tf.Tensor: id=10505, shape=(), dtype=float64, numpy=-2.2228178933331413&gt;], [[2, 0, 0], &lt;tf.Tensor: id=10529, shape=(), dtype=float64, numpy=-2.2228178933331413&gt;]]
+</code></pre></div></div>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/tags/#beam-search" class="page__taxonomy-item" rel="tag">Beam Search</a>
+    
+    </span>
+  </p>
+
+
+
+
+        
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2019-12-11T00:00:00+05:30">December 11, 2019</time></p>
+        
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?text=Beam+search+decoding+in+5+mins%20http%3A%2F%2Flocalhost%3A4000%2FBeamSearch%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2FBeamSearch%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2FBeamSearch%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/DependencyParsing/" class="pagination--pager" title="Dependency Parsing in 5 mins
+">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You may also enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/DependencyParsing/" rel="permalink">Dependency Parsing in 5 mins
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  less than 1 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">TL;DR
+Dependency parsing in natural language processing is a parsing technique which gives relations (labels) to words via head-dependent relationship. Contr...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/perceptron/" rel="permalink">Reservoir Sampling
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  less than 1 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Under Contruction…
+</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2021 Chandresh Kumar Maurya. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+
+  </body>
+</html>

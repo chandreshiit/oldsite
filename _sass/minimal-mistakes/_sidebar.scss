@@ -127,8 +127,8 @@
   }
 
   img {
-    max-width: 110px;
-    border-radius: 50%;
+    max-width: 120px; /* changes profile pic width*/
+    border-radius: 0%; /*change profile pic from square to circle etc. */
 
     @include breakpoint($large) {
       padding: 5px;
@@ -159,6 +159,7 @@
 
 .author__name {
   margin: 0;
+  font-size: 0.7em;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -167,11 +168,13 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  /*font-size: $type-size-5;*/
 }
 
 .author__bio {
   margin: 0;
+  font-size: 0.9em;
+  font-style: italic;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -181,7 +184,7 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
+  display: table-cell;	
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;

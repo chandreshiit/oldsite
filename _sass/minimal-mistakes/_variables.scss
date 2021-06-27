@@ -49,14 +49,14 @@ $type-size-8: 0.625em !default; // ~10px
 
 $gray: #7a8288 !default;
 $dark-gray: mix(#000, $gray, 40%) !default;
-$darker-gray: mix(#000, $gray, 60%) !default;
+$darker-gray: mix(#000, $gray, 90%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
 $background-color: #fff !default;
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
-$text-color: $dark-gray !default;
+$text-color: $darker-gray !default;
 $muted-text-color: mix(#fff, $text-color, 35%) !default;
 $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
@@ -102,7 +102,7 @@ $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
 /* links */
-$link-color: mix(#000, $info-color, 15%) !default;
+$link-color: #0f0aff !default;
 $link-color-hover: mix(#000, $link-color, 25%) !default;
 $link-color-visited: mix(#fff, $link-color, 15%) !default;
 $masthead-link-color: $primary-color !default;
@@ -136,15 +136,16 @@ $medium: 768px !default;
 $medium-wide: 900px !default;
 $large: 1024px !default;
 $x-large: 1280px !default;
+$xx-large: 1400px !default;
 $max-width: $x-large !default;
 
 /*
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
+$right-sidebar-width-narrow: 10px !default;
+$right-sidebar-width: 0px !default;
+$right-sidebar-width-wide: 10px !default;
 
 /*
    Other
