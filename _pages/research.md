@@ -13,7 +13,7 @@ author_profile: true
 
 <hr style="background-color: #0000ff;">
 
-- Malhotra, Nikhil, Chandresh Kumar Maurya, and Anupama Ray. "**Approach for automatically adjusting display screen setting based on machine learning**." U.S. Patent Application No. 16/682,405.
+- Malhotra, Nikhil, **Chandresh Kumar Maurya**, and Anupama Ray. "**Approach for automatically adjusting display screen setting based on machine learning**." U.S. Patent Application No. 16/682,405.
 
 ### Book/Book Chapters:
 
