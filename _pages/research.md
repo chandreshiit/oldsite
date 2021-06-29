@@ -23,7 +23,7 @@ author_profile: true
 
 ### Pre-prints:
 
-<hr style="background-color: #0000ff;">
+<hr style="background-color: #0000ff;"></hr>
 
 - **Maurya, Chandresh Kumar**, Seemandhar Jain, and Vishal Thakre. "**Digital Contact Tracing for Covid 19**." *arXiv preprint arXiv:2105.15030* (2021).
 
@@ -56,6 +56,10 @@ author_profile: true
 
 
 - Chandresh Kumar Maurya, Arun Chauhan, and Durga Toshniwal, **"Anomaly Detection in Streaming Data using Online Non-negative Matrix Factorization"**,  poster presentation at International workshop on machine learning \& Text analytic (MLTA 2013), South Asian University, New Delhi.  (**Best  presentation Award**)
+
+
+
+
 
 
 
