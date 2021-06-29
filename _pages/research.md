@@ -23,7 +23,7 @@ author_profile: true
 
 ### Pre-prints:
 
-<hr style="background-color: #0000ff;"></hr>
+<hr style="background-color: #0000ff;">
 
 - **Maurya, Chandresh Kumar**, Seemandhar Jain, and Vishal Thakre. "**Digital Contact Tracing for Covid 19**." *arXiv preprint arXiv:2105.15030* (2021).
 
