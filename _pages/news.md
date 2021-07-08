@@ -15,7 +15,7 @@ author_profile: false
 
 **Note 2:**  Students seeking internship: keep checking this section for available opportunity   
 
-<font color='red'>Looking for motivated students  for internship (B.Tech/M.Tech/Ph.D). Apply only when you can spend at least 6 months on the project</font>
+<font color='red'>Looking for motivated students  for internship (B.Tech(4th yer only)/M.Tech/Ph.D). Apply only when you can spend at least 6 months on the project</font>
 
 
 
