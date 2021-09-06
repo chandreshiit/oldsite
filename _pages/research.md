@@ -13,6 +13,7 @@ author_profile: true
 
 <hr style="background-color: #0000ff;">
 
+- **Chandresh Kumar Maurya** and Neetesh Kumar, "**A Scalable System and Method for Contact Tracing using GPS and Cloud Computing**",  Indian Patent (Filed 2021)
 - Malhotra, Nikhil, **Chandresh Kumar Maurya**, and Anupama Ray. "**Approach for automatically adjusting display screen setting based on machine learning**." U.S. Patent Application No. 16/682,405.
 
 ### Book/Book Chapters:
@@ -25,7 +26,9 @@ author_profile: true
 
 <hr style="background-color: #0000ff;">
 
-- **Maurya, Chandresh Kumar**, Seemandhar Jain, and Vishal Thakre. "**Digital Contact Tracing for Covid 19**." *arXiv preprint arXiv:2105.15030* (2021).
+- **Maurya, Chandresh Kumar**, Seemandhar Jain, and Vishal Thakre. "**Digital Contact Tracing for Covid 19**." *arXiv preprint arXiv:2105.15030* (2021)
+
+- Saxena, R., Chaudhary, M., **Maurya, C. K**., & Prasad, S. (2021). **An Intelligent Recommendation-cum-Reminder System**. *arXiv preprint arXiv:2108.06206*..
 
   
 
