@@ -24,4 +24,3 @@ author_profile: false
 * Invited as a reviewer for IEEE Transaction on Artificial Intelligence
 * Invited as a reviewer for IEEE Computational Intelligence Magazine
 * Invited as TPC for IEEE MASS 2020.
-
