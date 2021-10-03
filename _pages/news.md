@@ -6,7 +6,7 @@ author_profile: false
 
 ***
 
-**Note 1:**  
+**Openings**  
 
 1. <font color='red'>Looking for motivated students (Ph.D./MS) willing to give a head-start in research. Drop me an email if interested.</font>
 
@@ -15,12 +15,12 @@ author_profile: false
 
 **Note 2:**  Students seeking internship: keep checking this section for available opportunity   
 
-<font color='red'>Looking for motivated students  for internship (B.Tech(4th year only)/M.Tech/Ph.D). Apply only when you can spend at least 6 months on the project</font>
+<!-- <font color='red'>Looking for motivated students  for internship (B.Tech(4th year only)/M.Tech/Ph.D). Apply only when you can spend at least 6 months on the project</font> -->
 
 
 
-* Invited as program committee(PC) member for ECML-PKDD-2021 (applied data science track)
-* Invited as program committee(PC) member for AAAI-2021.
-* Invited as a reviewer for IEEE Transaction on Artificial Intelligence
-* Invited as a reviewer for IEEE Computational Intelligence Magazine
-* Invited as TPC for IEEE MASS 2020.
+**News**
+
+- Full paper accepted in ICONIP 2021
+- Full paper accepted in CODS-COMAD 2022
+
