@@ -46,7 +46,7 @@ author_profile: true
 <hr style="background-color: #0000ff;">
 
 - Sundesh Gupta, Aditya Shah, Miten Shah, Laribok Syiemlieh and **Chandresh Maurya**, **FiLMing Multimodal Sarcasm Detection with Attention**,   **ICONIP 2021**, Bali, Indonesia (accepted)
-- Rohan Saxena, Maheep Chaudhary, **Chandresh Kumar Maurya** and Shitala Prasad,**An Intelligent Recommendation-cum-Reminder System**, **CODS-COMAD 2022**, India (accepted in ADS track)
+- Rohan Saxena, Maheep Chaudhary, **Chandresh Kumar Maurya** and Shitala Prasad, **An Intelligent Recommendation-cum-Reminder System**, **CODS-COMAD 2022**, India (accepted in ADS track)
 - **C.K. Maurya,** Neelamadhav, Sampath Dechu, Tomas Horvath, **"Online Similarity Learning with Feedback for Invoice Line Item Matching"**, **AAAI 2020** Intelligent Process Automation (IPA-20) workshop, NY, USA.
 - Tarun Tater, Sampath Dechu, Senthil Mani, and **Chandresh Kumar Maurya**, Prediction of Invoice Payment Status in Account Payable Business Process}. , **International Conference on Service-Oriented Computing (ICSOC)** 2018, China.
 - **Chandresh Kumar Maurya**, Durga Toshniwal, and  Vishal Agarwal, **"Anomaly Detection via Distributed Sparse Class-Imbalance Learning"**, **ICML 2016** workshop on Anomaly detection, NY, USA.
