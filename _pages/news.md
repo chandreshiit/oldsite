@@ -21,6 +21,7 @@ author_profile: false
 
 **News**
 
+- Full paper accepted in BDA 2021
 - Full paper accepted in ICONIP 2021
 - Full paper accepted in CODS-COMAD 2022
 
