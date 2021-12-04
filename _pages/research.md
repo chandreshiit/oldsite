@@ -45,7 +45,8 @@ author_profile: true
 
 <hr style="background-color: #0000ff;">
 
-- **Maurya, Chandresh Kumar**, Seemandhar Jain, and Vishal Thakre, **Scalable Contact Tracing, Hotspot Detection, and Safe-Route Recommendation**, The Ninth International Conference On Big Data Analytics (**BDA**) 2021, Allahabad, India. 
+- Aditya Shah and **Chandresh Kumar Maurya**,  **How effective is incongruity? Implications for code-mixed sarcasm detection**, In **18th ICON 2021**, India (accepted)
+- **Maurya, Chandresh Kumar**, Seemandhar Jain, and Vishal Thakre, **Scalable Contact Tracing, Hotspot Detection, and Safe-Route Recommendation**, The Ninth International Conference On Big Data Analytics (**BDA**) 2021, Allahabad, India. (accepted)
 - Sundesh Gupta, Aditya Shah, Miten Shah, Laribok Syiemlieh and **Chandresh Maurya**, **FiLMing Multimodal Sarcasm Detection with Attention**,   **ICONIP 2021**, Bali, Indonesia (accepted)
 - Rohan Saxena, Maheep Chaudhary, **Chandresh Kumar Maurya** and Shitala Prasad, **An Intelligent Recommendation-cum-Reminder System**, **CODS-COMAD 2022**, India (accepted in ADS track)
 - **C.K. Maurya,** Neelamadhav, Sampath Dechu, Tomas Horvath, **"Online Similarity Learning with Feedback for Invoice Line Item Matching"**, **AAAI 2020** Intelligent Process Automation (IPA-20) workshop, NY, USA.
