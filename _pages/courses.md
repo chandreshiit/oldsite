@@ -8,9 +8,7 @@ author_profile: true
 
 ## Upcoming course
 
-1. CS 425/CS 625: Natural Language Processing (Spring 2022)
-
-##### 
+1. CS 425/CS 625: Natural Language Processing (Spring 2022) ([course homepage](/NLP2022/))
 
 ##### Past Courses
 
